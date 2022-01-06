@@ -656,7 +656,7 @@ http://103.161.2.142/hls/bbcworld.m3u8
 NFUzTXQ1aWQwTlhkNFZIYm05RE8xTlRidWdYWms1V2F2UWpNejlTYmg1U2J2TldkdTRHWmoxQ2QwOTJMdm9EYzBSSGE=
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngatff.com/logo/tv/ss/sun-bangla-in.png" group-title="News",Zee 24 Bangla
+#EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News",Zee 24 Bangla
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/901.stream/index.m3u8
 
