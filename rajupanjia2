@@ -671,18 +671,15 @@ PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVpZDBOV2F0RkdiemxtYjBGMkxKUkZVdWhHVXBGV00xY1ZZ
 https://rhridoy136.shortcm.li/atnislamic.m3u8
 
 
-#EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV Bangla
+#EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV 1
 #EXTVLCOPT:network-caching=1000
 http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 
-#EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV Bangla 2
+#EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV 2
 #EXTVLCOPT:network-caching=1000
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Islamic",Peace TV (BNG) Ch-1
-#EXTVLCOPT:network-caching=1000
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 
 
@@ -745,15 +742,15 @@ http://103.157.210.165:8000/play/a00q/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.157.210.165:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV Ch-1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV 1
 #EXTVLCOPT:network-caching=1000
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV Ch-2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV 2
 #EXTVLCOPT:network-caching=1000
 http://103.70.140.27:8080/hls/duronto.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV Ch-3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV 3
 #EXTVLCOPT:network-caching=1000
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
@@ -838,19 +835,19 @@ http://208.86.19.21:80/902.stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0rh/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZffGl.png" group-title="Indian-Bangla", Colors Bangla Ch-1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZffGl.png" group-title="Indian-Bangla", Colors Bangla 1
 #EXTVLCOPT:network-caching=1000
 http://103.81.104.118/hls/colorsbangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVffZHZGl.png" group-title="Indian-Bangla", Colors Bangla Ch-2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVffZHZGl.png" group-title="Indian-Bangla", Colors Bangla 2
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/904.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVffZHZGl.png" group-title="Indian-Bangla", Colors Bangla Ch-3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVffZHZGl.png" group-title="Indian-Bangla", Colors Bangla 3
 #EXTVLCOPT:network-caching=1000
 http://jupiter.bdcabletv.com/ColorsBangla-ENC/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imffage310b3969116aae3b.png" group-title="Indian-Bangla",Enter 10 Bangla Ch-1
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imffage310b3969116aae3b.png" group-title="Indian-Bangla",Enter 10 Bangla
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 
@@ -972,11 +969,11 @@ https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
 #EXTVLCOPT:network-caching=1000
 https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/bflix02a1893121c5a28f.jpg" group-title="Hindi" ,Bflix Movies Ch-1
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/bflix02a1893121c5a28f.jpg" group-title="Hindi" ,Bflix Movies 1
 #EXTVLCOPT:network-caching=1000
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?token=soheliptv01826655778
 
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/bflix02a1893121c5a28f.jpg" group-title="Hindi" ,Bflix Movies Ch-2
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/bflix02a1893121c5a28f.jpg" group-title="Hindi" ,Bflix Movies 2
 #EXTVLCOPT:network-caching=1000
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
 
@@ -991,22 +988,22 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD Ch-1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/735.stream/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Hindi" ,Dabang TV Ch-1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Hindi" ,Dabang TV 1
 #EXTVLCOPT:network-caching=1000
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dabangg TV" tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Hindi" ,Dabang TV Ch-2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dabangg TV" tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Hindi" ,Dabang TV 2
 #EXTVLCOPT:network-caching=1000
 https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
@@ -1136,16 +1133,16 @@ http://208.86.19.21:80/728.stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21/722.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD Ch-2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema 1
 #EXTVLCOPT:network-caching=1000
 http://103.81.104.118/hls/zeecinemahd.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD Ch-2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema 2
 #EXTVLCOPT:network-caching=1000
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD Ch-3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema 3
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
@@ -1340,15 +1337,15 @@ https://edgesport-samsunguk.amagi.tv/playlist360p.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21/720.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="Sports",BeIN Sports (3) Ch-2
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="Sports",BeIN Sports (3) 2
 #EXTVLCOPT:network-caching=1000
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Sports",BeIN Sports (4)
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Sports",BeIN Sports 4
 #EXTVLCOPT:network-caching=1000
 http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Sports",BeIN Sports hd 4
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Sports",BeIN Sports 4
 #EXTVLCOPT:network-caching=1000
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/70.m3u8
 
@@ -1384,7 +1381,7 @@ https://236s.short.gy/DreamTV/PTV.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21/711.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports Ch-4
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports 4
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
@@ -1504,7 +1501,7 @@ http://jupiter.bdcabletv.com/T-sports_ENC/video.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket Ch-1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket 
 #EXTVLCOPT:network-caching=1000
 http://103.81.104.118/hls/stream34.m3u8
 
