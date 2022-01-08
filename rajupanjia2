@@ -237,6 +237,9 @@ https://piratesiptv.shortcm.li/gazi.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/Gazi-TV.jpg" group-title="Bangladesh",Gazi TV 2
 http://103.161.2.142/hls/Gazi-TV.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangladesh",Gazi TV 3
+http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1437616252.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://s6.gifyu.com/images/independent75cb8784de04a5db.png" group-title="Bangladesh",Independent 1
 http://str24.l9574.com/601.stream/index.m3u8
 
@@ -928,6 +931,8 @@ http://208.86.19.21:80/906.stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian-Bangla", Zee Bangla 3
+http://103.159.4.38:8080/IN-BANGLA-4/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Zee_Bangla_Cinema_Logo.jpg/250px-Zee_Bangla_Cinema_Logo.jpg"group-title="Indian-Bangla",Zee Bangla Cinema 
