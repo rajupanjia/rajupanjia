@@ -436,6 +436,12 @@ NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdVlIZGhKSFp1Vm1jaFozTEpSRlV1aEdVcEZXTTFjVlkwSjFW
 
 
 
+
+
+
+
+
+
 ================================================= : Music : =================================================
 
 
@@ -605,6 +611,13 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 
 
 
+
+
+
+
+
+
+
 ================================================= :News : =================================================
 
 
@@ -620,7 +633,7 @@ PT1BTzFOVGJ1UWpOMUV6WHlWR2R6RldidkVHWnVGbWJoQm5ZaDlDTXpVVE4yY3pMbFpYYXM5eWNzaDJM
 #EXTVLCOPT:network-caching=1000
 PT1BTzFOVGJ1SVhaME5YWXQ5U1lrNVdZdUZHY2lGMkx3TVROMVl6TnZVbWRweDJMenhHYXZRWFp1NUNab2xXWXRGMmFoNVNhdEFuWWg5eUw2TUhjMFJIYQ==
 
-#EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News",News-18 Bangla
+#EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News",News-18 Bangla 1
 #EXTVLCOPT:network-caching=1000
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
@@ -646,7 +659,7 @@ http://103.161.2.142/hls/alzazira.m3u8
 NFUzTXQ1Q2VsUm1icDlTUktGMEwwVm1idW9XWTBWMlp1VW1haDFpWWxkWEx6eEdhdFVtZHB4Mkx2b0RjMFJIYQ==
 
 
-#EXTINF:-58 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="News",BBC News
+#EXTINF:-58 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="News",BBC News 1
 #EXTVLCOPT:network-caching=1000
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
@@ -654,9 +667,98 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.161.2.142/hls/bbcworld.m3u8
 
-#EXTINF:-58 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="News",BBC News 2
+#EXTINF:-58 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="News",BBC News 3
 #EXTVLCOPT:network-caching=1000
 NFUzTXQ1aWQwTlhkNFZIYm05RE8xTlRidWdYWms1V2F2UWpNejlTYmg1U2J2TldkdTRHWmoxQ2QwOTJMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News 4
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="News",CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+
+
+#EXTINF:-1 tvg-id="FashionTVMumbai.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="News",FashionTV
+https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg" group-title="News",ZEE News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+
+#EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/06/06a7ef972e12acd213d5c04095295fb6.jpeg" group-title="News",Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/43lszhG.png" group-title="International News",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:0 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/misc/livetv-share-aajtak.jpg" group-title="News",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiPmvMBx0DUhcqwhzOEDQRHllKXSk0j3_zCA78OPmNlVD9KkknZU0MS9Wovi0sx1OOgj2uNZlQW_dJa_fpWkPljeFSY_3aMTvij_o2vAMSysJn1ZsKSpgozcRL-_dDPAov170VTaqU7txYiVqLKYFmyceIUWwYk4vnN1JpfSjK0AXiqOsGh1r2n-Itp=s200" group-title="News",MTV-US
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5pLujf-Oh2SdHchYD6nvBoTMOeHyt6ppj9w&usqp=CAU" group-title="News",India TV News	
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/06/21/indiatoday.jpg" group-title="News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_4/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/1016/404/png-clipart-times-now-noida-film-city-television-channel-logo-asianet-newsable-television-blue.png" group-title="News",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+
+
+#EXTINF:0 tvg-logo="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/brandmay27licenseindia9335dde5d9c77e26.jpg" group-title="News",Fashion TV
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF: -0 tvg-logo="https://www.channelnewsasia.com/blob/8396140/079e748f004a5699f1427ac5764878da/cna-logo-data.jpg" group-title="News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+
+#EXTINF:0 tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="News",TV5 Monde
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.screenafrica.com/wp-content/uploads/2018/11/TRT-world-696x398.png" group-title="News",TRT World Turkey
+https://tv-trtworld.live.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV Public" tvg-logo="https://i.imgur.com/rmyfoOI.png" group-title="News",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png" group-title="News",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E4l3jm1.png" group-title="News",ERT World
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+
+#EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" group-title="News",TVSN
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+
+#EXTINF:0 tvg-logo="https://news.sky.com/assets/sky-news-logo.png?v=1" group-title="News",Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1yqTZhR.png" group-title="News",Nuova Tv 1
+https://nuovatv.net:8443/tv/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vauyV3.png" group-title="News",Nuova Tv 2
+https://nuovatv.net:8443/tv2/stream.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIn5ggFHMuZYYzngFd5Wn4v2jS64v8RQUAQ&usqp=CAU" group-title="News",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbas7EC7sLiMseb3oZaNgRqpSh5zoNFudDhA&usqp=CAU" group-title="News",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+
+
+
+
+
 
 
 
@@ -689,6 +791,13 @@ http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 
 
 
+
+
+
+
+
+
+
 ================================================= : Kids : =================================================
 
 
@@ -704,21 +813,27 @@ http://103.153.39.36:8000/play/a01w
 #EXTVLCOPT:network-caching=1000
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
+#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/axesNOe.png" group-title="Kids",Chinola TV 
+#EXTVLCOPT:network-caching=1000
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://durbinlive.com/uploads/tv_image/khushboo-bangla.jpg",Khusbho Bangla
 #EXTVLCOPT:network-caching=1000
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 
-#EXTINF:-68 tvg-logo="https://i.imgur.com/yKebC0.jpg" group-title="Kids",Disney Channel 1
+#EXTINF:-68 tvg-logo="https://i.imgur.com/yKebC0.jpg" group-title="Kids",Disney 1
 #EXTVLCOPT:network-caching=1000
 http://103.153.39.36:8000/play/a01y
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel 2
+#EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney 2
 #EXTVLCOPT:network-caching=1000
 http://103.157.210.165:8000/play/a00r/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids",Disney Kids
+#EXTVLCOPT:network-caching=1000
+http://188.40.68.167/russia/disney/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/200px-Disney_Junior_logo.png" group-title="Kids",Disney Junior
@@ -1273,8 +1388,12 @@ http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 
 
 
+
 ================================================= : Sports : =================================================
 
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e4c03ef4b.png" group-title="Sports", Abu Dhabi YAS
+#EXTVLCOPT:network-caching=1000
+https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/150px-A_Sports_Logo.png" group-title="Sports",A Sports 1
@@ -1323,6 +1442,21 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/70.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing
+#EXTVLCOPT:network-caching=1000
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934e3b33.png" group-title="Sports",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934d8aa9.png" group-title="Sports", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="Sports",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2020/01/GEO-SUPER-Live-Streaming.jpg" group-title="Sports", Geo Super 1
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
@@ -1334,6 +1468,11 @@ http://208.86.19.21/725.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" group-title="Sports", FOX Sports News HD 
 #EXTVLCOPT:network-caching=1000
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",K Sports
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="Sports" ,PTV Sports 1
 #EXTVLCOPT:network-caching=1000
@@ -1463,6 +1602,10 @@ http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 
+#EXTINF:0 tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/tennis-channel-logo.png" group-title="Sports",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket 
 #EXTVLCOPT:network-caching=1000
 http://103.81.104.118/hls/stream34.m3u8
@@ -1478,6 +1621,15 @@ http://208.86.19.21:80/731.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" group-title="Sports", Willow HD 2
 #EXTVLCOPT:network-caching=1000
 http://str24.l9574.com/731.stream/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCBCyHERjXilL4TmnZmTdIhHDlnZxFFcpqQ&usqp=CAU" group-title="Sports",WWE-1
+#EXTVLCOPT:network-caching=1000
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+
+
+
 
 ================================================= :Others : =================================================
 
