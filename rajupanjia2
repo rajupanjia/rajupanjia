@@ -690,7 +690,7 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 #EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/06/06a7ef972e12acd213d5c04095295fb6.jpeg" group-title="News",Bloomberg Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/43lszhG.png" group-title="International News",NDTV 24x7
+#EXTINF:0 tvg-logo="https://i.imgur.com/43lszhG.png" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
 #EXTINF:0 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/misc/livetv-share-aajtak.jpg" group-title="News",Aaj Tak HD
