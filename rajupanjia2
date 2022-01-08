@@ -837,12 +837,7 @@ http://208.86.19.21/708.stream/index.m3u8
 http://208.86.19.21:80/903.stream/index.m3u8
 
 
-#EXTINF:-56 tvg-logo="https://i.imgur.com/ghngc2.png" group-title="Indian-Bangla",Akash Aath
-#EXTVLCOPT:network-caching=1000
-http://208.86.19.21:80/902.stream/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3ffKead.png" group-title="Indian-Bangla", Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Enter 10 Bangla
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 
@@ -861,11 +856,6 @@ http://14.199.164.20:4001/play/a0rh/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2021/08/Colors-Bangla.webp" group-title="Indian-Bangla", Colors Bangla 1
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/904.stream/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imffage310b3969116aae3b.png" group-title="Indian-Bangla",Enter 10 Bangla
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0j5/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imageb7be3164e639addc.png" group-title="Indian-Bangla",Ruposhi Bangla
@@ -951,12 +941,6 @@ http://183.178.58.115:8015/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi",& Pic 
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21/705.stream/index.m3u8
-
-
-
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Hindi", Star Plus
-#EXTVLCOPT:network-caching=1000
-http://itcare.ddns.net:5868/IN-BANGLA-3/index.m3u8
 
 
 #EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Hindi", Epic
@@ -1266,11 +1250,11 @@ http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-145 tvg-logo="" group-title="Sports",A Sports 1
+#EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/150px-A_Sports_Logo.png" group-title="Sports",A Sports 1
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
-#EXTINF:-145 tvg-logo="" group-title="Sports",A Sports 2
+#EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/150px-A_Sports_Logo.png" group-title="Sports",A Sports 2
 #EXTVLCOPT:network-caching=1000
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
@@ -1287,11 +1271,11 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTVLCOPT:network-caching=1000
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
-#EXTINF:-145 tvg-logo="" group-title="Sports",EDGE
+#EXTINF:-145 tvg-logo="https://i.imgur.com/HAbltI8b.jpg" group-title="Sports",EDGE
 #EXTVLCOPT:network-caching=1000
 https://edgesport-samsunguk.amagi.tv/playlist360p.m3u8
 
-#EXTINF:-145 tvg-logo="" group-title="Sports",Astro
+#EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/800px-Astro_logo_-_Magenta_-_Copy.png" group-title="Sports",Astro
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21/720.stream/index.m3u8
 
@@ -1324,24 +1308,26 @@ http://208.86.19.21/725.stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="Sports" ,PTV Sports 1
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/610.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="Sports" ,PTV Sports 2
 #EXTVLCOPT:network-caching=1000
 http://cdn2.niazitv.pk:8080/PTV-Sports-FunTV-100/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="Sports" ,PTV Sports 3
 https://236s.short.gy/DreamTV/PTV.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/TV_Sports.png" group-title="Sports" ,Ten Sports
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="Sports" ,PTV Sports 4
+#EXTVLCOPT:network-caching=1000
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports" ,Ten Sports
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21/711.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports 4
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="Sports",Red Bull TV
 #EXTVLCOPT:network-caching=1000
@@ -1360,13 +1346,9 @@ http://208.86.19.21:80/726.stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony 10 1 3
-#EXTVLCOPT:network-caching=1000
-http://103.81.104.118/hls/sonyten1.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony 10 2 1
-#EXTVLCOPT:network-caching=1000
-http://103.81.104.118/hls/sonyten2.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDyT.png"group-title="Sports",Sony 10 3 1
 #EXTVLCOPT:network-caching=1000
@@ -1381,9 +1363,7 @@ http://208.86.19.21:80/712.stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://tvflixback0.hopto.org/712.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports" , Sony 10 3 4
-#EXTVLCOPT:network-caching=1000
-http://103.81.104.118/hls/sonyten3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony 6 1
 #EXTVLCOPT:network-caching=1000
@@ -1393,9 +1373,6 @@ http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21/740.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony 6 3
-#EXTVLCOPT:network-caching=1000
-http://103.81.104.118/hls/sonysix.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 1 1
 #EXTVLCOPT:network-caching=1000
@@ -1410,8 +1387,6 @@ https://236s.short.gy/DreamTV/ChSP1.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/710.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Star Sports 1 4
-http://103.81.104.118/hls/stersports1hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Star Sports  Select 1 
 http://103.81.104.118/hls/Star_Sport_Select1HD.m3u8
@@ -1480,12 +1455,12 @@ http://str24.l9574.com/731.stream/index.m3u8
 ================================================= :Others : =================================================
 
 
-#EXTINF:-1 tvg-id="vesti" tvg-name="Russia 24" tvg-logo="" group-title="Others",ATN UK
+#EXTINF:-1 tvg-id="vesti" tvg-name="Russia 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Others",ATN UK
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21/626.stream/index.m3u8
 
 
-#EXTINF:-1 tvg-name="RTP TV" tvg-logo="https://encrypted-tbn0.gstatic.cA&usqp=CAU" group-title="Others",RTP TV
+#EXTINF:-1 tvg-name="RTP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/250px-RTP1_-_Logo_2016.svg.png" group-title="Others",RTP TV
 #EXTVLCOPT:network-caching=1000
 NFUzTXQ1U016UXpOMkVUTjFjM1gwTlhhc3RtYjFoMll2VW1kcHhtTHlnMll2OHlYME5uYnBaV1prOTFMeWcyWXY4V2J1MDJiajVTYmtSbkwwVW1kcHgyTHZvRGMwUkhh
 
@@ -1495,16 +1470,16 @@ NFUzTXQ1U016UXpOMkVUTjFjM1gwTlhhc3RtYjFoMll2VW1kcHhtTHlnMll2OHlYME5uYnBaV1prOTFM
 NFUzTXQ1Q2VsUm1icDlDWnAxMlhoVjNYdTlXYW9OWFltUkdhdk1IYm85U054RWpMM1FqTDNZakwxa3pMdm9EYzBSSGE=
 
 
-#EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 Monde" tvg-logo="" group-title="Others",TV5 Monde
+#EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5 Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/250px-TV5MONDE_logo.png" group-title="Others",TV5 Monde
 #EXTVLCOPT:network-caching=1000
 PUlLaGliRlZ0VW1kcHgwUDRVM010NUNlbFJtYnA5aWJsVldhekZXTjJSM0wzRWpOeE1qTnZVbWRweDJMenhHYXZRWFp1NUNab2xXWXRGMmFoNVNhdDRXWmxsMmNoVmpkMDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-id="vesti" tvg-name="Russia 24" tvg-logo="" group-title="Others",Russia 24
+#EXTINF:-1 tvg-id="vesti" tvg-name="Russia 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/220px-Rossiya-24_Logo.svg.png" group-title="Others",Russia 24
 #EXTVLCOPT:network-caching=1000
 aVNvNFdSVkxsWlhhTTlETzFOVGJ1SXpYME5YYXNsWFlzQjNMMEl6WGhsMmN6Vm5jdk1IYm85Q2RsNW1MNGxtYmxkbWJ1NEdaajVTTTRnak55TVhMellETTRVRE41WVROekUyTHZvRGMwUkhh
 
 
-#EXTINF:-1 tvg-logo="ext" group-title="Others",DW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="Others",DW
 #EXTVLCOPT:network-caching=1000
 NFUzTXQ1Q2VsUm1icDkxWnZKSGN2QURNd0V6THQ5Mll1NEdkbk5tTGxaWGFzOXlMNk1IYzBSSGE=
 
@@ -1537,7 +1512,7 @@ PWdUZHowbUxRQmpNM0lGZHpsR2I1RkdidzlpZDA1U2FuRldiaDV5YzExaWN5bEdkejF5YXpRM2N0OXlM
 #EXTVLCOPT:network-caching=1000
 NFUzTXQ1aWNsUjNjaDEyTFR4RVN0SWpWVTVVTEJOVlFPOXlNeWt6TXhBak12VW1kcHgyTHp4R2F2UVhadTVDWmxwWGFoMVdZckZtTHlZSGR1OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA TV" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Others",NASA TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA TV" tvg-logo="https://i.imgur.com/TZcJ1CKb.jpg" group-title="Others",NASA TV
 #EXTVLCOPT:network-caching=1000
 PWdUZHowbUx3QURNeThsY2xSM2NoMTJMVHhFU3RFalZVNVVMQk5WUU85U04zQUROeEFqTXZVbWRweDJMenhHYXZRWFp1NUNabHBYYWgxV1lyRm1MeFlIZHU5eUw2TUhjMFJIYQ==
 
