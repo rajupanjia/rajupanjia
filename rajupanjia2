@@ -692,17 +692,31 @@ http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/JuCAubC.jpeg",Cartoon Network
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/JuCAubC.jpeg",CN 1
 #EXTVLCOPT:network-caching=1000
 http://103.153.39.36:8000/play/a01w
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", CN 2
+#EXTVLCOPT:network-caching=1000
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://durbinlive.com/uploads/tv_image/khushboo-bangla.jpg",Khusbho Bangla
 #EXTVLCOPT:network-caching=1000
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 
-#EXTINF:-68 tvg-logo="https://i.imgur.com/yKebC0.jpg" group-title="Kids",Disney Channel
+#EXTINF:-68 tvg-logo="https://i.imgur.com/yKebC0.jpg" group-title="Kids",Disney Channel 1
 #EXTVLCOPT:network-caching=1000
 http://103.153.39.36:8000/play/a01y
+
+#EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Kids",Disney Channel 2
+#EXTVLCOPT:network-caching=1000
+http://103.157.210.165:8000/play/a00r/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/200px-Disney_Junior_logo.png" group-title="Kids",Disney Junior
 #EXTVLCOPT:network-caching=1000
@@ -753,6 +767,10 @@ https://cutt.ly/nickban
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
 #EXTVLCOPT:network-caching=1000
 http://103.157.210.165:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids",Nick Pluto   
+#EXTVLCOPT:network-caching=1000
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
 
 
@@ -1196,6 +1214,10 @@ http://103.131.212.138:8000/play/a004
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Hindi
+#EXTVLCOPT:network-caching=1000
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 
 
 
