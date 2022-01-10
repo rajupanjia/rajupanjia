@@ -1544,6 +1544,9 @@ http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21/740.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony 6 3
+#EXTVLCOPT:network-caching=1000
+http://58.27.219.166:8000/play/a05h
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 1 1
 #EXTVLCOPT:network-caching=1000
