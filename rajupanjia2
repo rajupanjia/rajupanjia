@@ -677,6 +677,9 @@ http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="News",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/DD_News.png/220px-DD_News.png" group-title="News",DD News
+http://hls.media.nic.in/live/ddnews-360p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
@@ -1290,6 +1293,10 @@ https://m3u-editor.com/serve/a5871540-d9ba-11eb-89bc-3be21464c6be/328171610
 #EXTVLCOPT:network-caching=1000
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png" group-title="English" ,Kix
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies 
 #EXTVLCOPT:network-caching=1000
@@ -1413,29 +1420,27 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
 
-#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",BeIN Sports (1) Ch-1
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",BeIN Sports 1 1
 #EXTVLCOPT:network-caching=1000
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",BeIN Sports 1 2
+#EXTVLCOPT:network-caching=1000
+http://1.banglokora.xyz/live/1222338888/index.m3u8
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/HAbltI8b.jpg" group-title="Sports",EDGE
 #EXTVLCOPT:network-caching=1000
 https://edgesport-samsunguk.amagi.tv/playlist360p.m3u8
 
-#EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/800px-Astro_logo_-_Magenta_-_Copy.png" group-title="Sports",Astro
-#EXTVLCOPT:network-caching=1000
-http://208.86.19.21/720.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="Sports",BeIN Sports (3) 2
-#EXTVLCOPT:network-caching=1000
-http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Sports",BeIN Sports 4
-#EXTVLCOPT:network-caching=1000
-http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Sports",BeIN Sports 4
 #EXTVLCOPT:network-caching=1000
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/70.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/qaorts4.qa.png" group-title="Sports",BT Sports 3
+#EXTVLCOPT:network-caching=1000
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/dd-sports.png" group-title="Sports",DD Sports
 #EXTVLCOPT:network-caching=1000
@@ -1525,9 +1530,9 @@ http://208.86.19.21/713.stream/index.m3u8
 http://208.86.19.21:80/712.stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/sony-ten-134a0e178339d6bd.jpg" group-title="Sports",Sony 10 3
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/sony-ten-134a0e178339d6bd.jpg" group-title="Sports",Sony 10 3 3
 #EXTVLCOPT:network-caching=1000
-http://tvflixback0.hopto.org/712.stream/index.m3u8
+http://str24.l9574.com/713.stream/index.m3u8
 
 
 
@@ -1542,12 +1547,12 @@ http://208.86.19.21/740.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 1 1
 #EXTVLCOPT:network-caching=1000
-http://208.86.19.21:80/724.stream/index.m3u8
+http://103.131.212.138:8000/play/a029/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Star Sports 1 2
 #EXTVLCOPT:network-caching=1000
-https://236s.short.gy/DreamTV/ChSP1.m3u8
+http://103.131.212.138:8000/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Star Sports 1 3
 #EXTVLCOPT:network-caching=1000
@@ -1561,8 +1566,12 @@ http://103.81.104.118/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Star Sports  Select 2 
 http://103.81.104.118/hls/select2.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Super Sports La Liga
-http://cro.hockeynews.club/live/1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,M La Liga 1
+http://freeiptv@54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,M La Liga 2
+http://freeiptv@93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports
 #EXTVLCOPT:network-caching=1000
