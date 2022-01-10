@@ -1246,9 +1246,6 @@ http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.115.215.42/ZEE_Tv_HD_02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi",Zee TV 3
-#EXTVLCOPT:network-caching=1000
-http://208.86.19.21/606.stream/index.m3u8
 
 
 
@@ -1301,7 +1298,14 @@ http://103.81.104.118/hls/sonypixhd.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.161.2.142/hls/sonypixhd.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English" ,Sony Pix 3
+http://103.131.212.138:8000/play/a032/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English" ,Sony Pix 4
+http://103.131.212.138:8000/play/a041/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English" ,Sony Pix 5
+http://103.131.212.138:8000/play/a012/index.m3u8
 
 
 
