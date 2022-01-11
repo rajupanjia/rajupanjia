@@ -559,14 +559,6 @@ http://103.81.104.118/hls/sonypixhd.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.161.2.142/hls/sonypixhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English" ,Sony Pix 3
-http://103.131.212.138:8000/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English" ,Sony Pix 4
-http://103.131.212.138:8000/play/a041/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English" ,Sony Pix 5
-http://103.131.212.138:8000/play/a012/index.m3u8
 
 
 
@@ -935,6 +927,10 @@ http://103.153.39.36:8000/play/a01w
 #EXTVLCOPT:network-caching=1000
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", CN 3
+#EXTVLCOPT:network-caching=1000
+https://cutt.ly/CNbd
+
 #EXTINF:-1 tvg-id="ChinolaTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/axesNOe.png" group-title="Kids",Chinola TV 
 #EXTVLCOPT:network-caching=1000
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
@@ -944,7 +940,7 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 
-#EXTINF:-68 tvg-logo="https://i.imgur.com/yKebC0.jpg" group-title="Kids",Disney 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids",Disney 1
 #EXTVLCOPT:network-caching=1000
 http://103.153.39.36:8000/play/a01y
 
@@ -1040,13 +1036,6 @@ http://14.199.164.20:4001/play/a0m2/index.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
-#EXTVLCOPT:network-caching=1000
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network Hindi
-#EXTVLCOPT:network-caching=1000
-https://cutt.ly/CNbd
 
 #EXTINF:-1 tvg-name="Spacetoon" tvg-logo="" group-title="Kids",Spacetoon
 #EXTVLCOPT:network-caching=1000
@@ -1231,9 +1220,6 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTVLCOPT:network-caching=1000
 https://mcncdndigital.com/balleballetv/index.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png",Boogle Bollywood
-#EXTVLCOPT:network-caching=1000
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
 
 
