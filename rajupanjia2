@@ -530,8 +530,8 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 
 
-
-
+#EXTINF:0 tvg-logo="https://br2017/11/logo-300x200.png" group-title="Documentary" ,RT
+http://103.159.4.38:5868/ENTEMENT-5/tracks-v1a1/mono.m3u8
 
 
 
@@ -1159,11 +1159,17 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_480p/9XM-audio_208482_u
 #EXTVLCOPT:network-caching=1000
 NFUzTXQ1Q013WXpOM2dUUHZWR1pwWlhMd0FETTRBak05UW1iMTlsTTRRRE93SXpYdmxHWjFGV0xOaFZPdndXYnpsbUxOaFZPdjBFVzU4aWQwMXlhd0oyTDBWbWJ1UW5idkpuWmtWM2JzTm1MckZtWXdOWE5sQkhOd2hUY3lRMkx2b0RjMFJIYQ==
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9xM 4
+#EXTVLCOPT:network-caching=1000
+http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="MUSIC", 9X Jhakaas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="MUSIC", 9X Jhakaas 1
 #EXTVLCOPT:network-caching=1000
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="MUSIC", 9X Jhakaas 2
+#EXTVLCOPT:network-caching=1000
+http://103.159.4.38:5868/MUSIC-9/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
@@ -1174,7 +1180,7 @@ http://ottss.online:8000/44122162500170/30316873476781/178763
 http://103.159.4.38:5868/MUSIC-10/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-89 group-title="MUSIC"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music 1
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Music.png" group-title="MUSIC",B4U Music 1
 #EXTVLCOPT:network-caching=1000
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
@@ -1220,10 +1226,6 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/sangeet-bnagla.png" group-title="MUSIC" ,Sangeet Bangla 2
 #EXTVLCOPT:network-caching=1000 
 http://str24.l9574.com/907.stream/index.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/b4u%20music.png",B4U Music
-#EXTVLCOPT:network-caching=1000
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/kadak_logo_400x400.png",Kadak Hits
 #EXTVLCOPT:network-caching=1000
