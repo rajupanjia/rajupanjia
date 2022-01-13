@@ -538,7 +538,7 @@ http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 
 ================================================= : English : =================================================
 
-#EXTINF:-1 tvg-logo="" group-title="English",Thrill (480p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg" group-title="English",Thrill (480p)
 #EXTVLCOPT:network-caching=1000
 PT1BTzFOVGJ1Z1haazVXYXZRek16OXljdmNYWjVJM2R4OVNNMTR5TTQ0aU55RWpMMVF6THZvRGMwUkhh
 
@@ -733,7 +733,7 @@ http://208.86.19.21/611.stream/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/bharat.jpeg",Star Bharat HD
 #EXTVLCOPT:network-caching=1000
-http://183.178.58.115:8011/0.m3u8
+http://208.86.19.21/721.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus 1
 #EXTVLCOPT:network-caching=1000
@@ -752,11 +752,6 @@ http://str24.l9574.com/717.stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/723.stream/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="Hindi",Utsab Gold
-#EXTVLCOPT:network-caching=1000
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Hindi" ,Wow Cinema
 #EXTVLCOPT:network-caching=1000
@@ -823,7 +818,7 @@ http://luckonline.eu:8080/live/CukyFcVq20/sHong3Hzd0/538.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",ZBC 2
 http://208.86.19.21/708.stream/index.m3u8
 
-#EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",ZBC 1
+#EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",ZBC 3
 #EXTVLCOPT:network-caching=1000
 http://str24.l9574.com/708.stream/index.m3u8
 
@@ -895,10 +890,6 @@ http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian-Bangla", Zee Bangla 3
 http://103.159.4.38:8080/IN-BANGLA-4/index.m3u8
 
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Zee_Bangla_Cinema_Logo.jpg/250px-Zee_Bangla_Cinema_Logo.jpg"group-title="Indian-Bangla",Zee Bangla Cinema 
-#EXTVLCOPT:network-caching=1000
-http://208.86.19.21:80/708.stream/index.m3u8
 
 
 
@@ -1538,7 +1529,7 @@ http://1.banglokora.xyz/live/1222338888/index.m3u8
 https://edgesport-samsunguk.amagi.tv/playlist360p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/qaorts4.qa.png" group-title="Sports",BT Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sports
 #EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 
@@ -1580,9 +1571,11 @@ http://str24.l9574.com/725.stream/index.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="Sports",K Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/K_Sports.png/200px-K_Sports.png"group-title="Sports",K Sports
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z917lOnb.jpg"group-title="Sports",NBA TV
+http://84.22.33.214/nbatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="Sports" ,PTV Sports 1
 #EXTVLCOPT:network-caching=1000
@@ -1610,12 +1603,12 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony 10 1 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Od94glkb.jpg"group-title="Sports",Sony 10 1 1
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/726.stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="Sports",Sony 10 1 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Od94glkb.jpg"group-title="Sports",Sony 10 1 2
 #EXTVLCOPT:network-caching=1000
 #http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
 http://str24.l9574.com/726.stream/index.m3u8
@@ -1659,11 +1652,11 @@ http://58.27.219.166:8000/play/a05h
 http://103.131.212.138:8000/play/a029/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Star Sports 1 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 1 2
 #EXTVLCOPT:network-caching=1000
 http://103.131.212.138:8000/play/a025/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Star Sports 1 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 1 3
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/710.stream/index.m3u8
 
@@ -1722,9 +1715,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/731.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" group-title="Sports", Willow HD 2
-#EXTVLCOPT:network-caching=1000
-http://str24.l9574.com/731.stream/index.m3u8
 
 
 
