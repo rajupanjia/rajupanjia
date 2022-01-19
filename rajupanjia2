@@ -754,12 +754,6 @@ http://14.199.164.20:4001/play/a0rh/index.m3u8
 http://208.86.19.21:80/904.stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imageb7be3164e639addc.png" group-title="Indian-Bangla",Ruposhi Bangla
-#EXTVLCOPT:network-caching=1000
-https://yuppcatchup.akamaized.net/preview/rupashibangala/1800.m3u8?hdnts=st=1612630459~exp=1612631059~acl=!*/20/preview/rupashibangala/*!/payload/yuppTVCom_61_-1_d8ba0603680e4389_BD_103
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Indian-Bangla",Star Jalsha 1
 #EXTVLCOPT:network-caching=1000
 https://cutt.ly/Jalshaa
@@ -1574,12 +1568,6 @@ http://103.131.212.138:8000/play/a025/index.m3u8
 http://208.86.19.21:80/710.stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,M La Liga 1
-http://freeiptv@54.39.48.63:8081/ESP%7CMOVISTARLALIGA/ESP%7CMOVISTARLALIGA/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,M La Liga 2
-http://freeiptv@93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports
 #EXTVLCOPT:network-caching=1000
@@ -1622,11 +1610,6 @@ http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 #EXTINF:0 tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/tennis-channel-logo.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" group-title="Sports", Willow HD
-#EXTVLCOPT:network-caching=1000
-http://208.86.19.21:80/731.stream/index.m3u8
 
 
 
