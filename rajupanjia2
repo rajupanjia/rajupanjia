@@ -510,19 +510,8 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",& TV 
-#EXTVLCOPT:network-caching=1000
-http://208.86.19.21/703.stream/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi",& Pic 
-#EXTVLCOPT:network-caching=1000
-http://208.86.19.21/705.stream/index.m3u8
-
-
-#EXTINF: -1 tvg-id="001" tvg-logo="#" group-title="Hindi", Epic
+#EXTINF: -1 tvg-id="001" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/06/18/epic.jpg" group-title="Hindi", Epic
 #EXTVLCOPT:network-caching=1000
 https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
 
@@ -652,9 +641,7 @@ http://luckonline.eu:8080/live/CukyFcVq20/sHong3Hzd0/538.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",ZBC 2
 http://208.86.19.21/708.stream/index.m3u8
 
-#EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",ZBC 3
-#EXTVLCOPT:network-caching=1000
-http://str24.l9574.com/708.stream/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Enter 10 Bangla
 #EXTVLCOPT:network-caching=1000
@@ -1366,10 +1353,6 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21/725.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2020/01/GEO-SUPER-Live-Streaming.jpg" group-title="Sports", Geo Super 3
-#EXTVLCOPT:network-caching=1000
-http://str24.l9574.com/725.stream/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" group-title="Sports", FOX Sports News HD 
 #EXTVLCOPT:network-caching=1000
@@ -1413,13 +1396,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 http://208.86.19.21:80/726.stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Od94glkb.jpg"group-title="Sports",Sony 10 1 2
-#EXTVLCOPT:network-caching=1000
-#http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
-http://str24.l9574.com/726.stream/index.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jvb.jpg"group-title="Sports",Sony 10 3 1
@@ -1429,15 +1405,6 @@ http://208.86.19.21/713.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jvb.jpg" group-title="Sports" , Sony 10 3 2
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/712.stream/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jvb.jpg" group-title="Sports",Sony 10 3 3
-#EXTVLCOPT:network-caching=1000
-http://str24.l9574.com/713.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jvb.jpg" group-title="Sports",Sony 10 3 4
-#EXTVLCOPT:network-caching=1000
-http://str24.l9574.com/712.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony 6 1
@@ -1492,16 +1459,13 @@ http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports 4
-#EXTVLCOPT:network-caching=1000
-http://103.161.2.142/hls/t-sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports 5
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports 4
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 5
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 
