@@ -164,7 +164,9 @@ http://103.159.4.38:8080/BD-BANGLA-16/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/Gazi-TV.jpg" group-title="Bangladesh",Gazi TV 1
-https://piratesiptv.shortcm.li/gazi.m3u8
+#https://piratesiptv.shortcm.li/gazi.m3u8
+http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/Gazi-TV.jpg" group-title="Bangladesh",Gazi TV 2
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1642959605&md5=pwofeTutWTkNWEdjGf8yBg&user=49729ec489674ef3912b6d7cd0822923
@@ -295,6 +297,9 @@ http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh", Maasranga 2
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh", Maasranga 3
+http://dds.oncast.me:1934/dlive/mass.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Z1Cu8xi.png" group-title="Bangladesh", Nagorik Tv
 http://103.161.2.142/hls/nagoriktv.m3u8
@@ -1534,10 +1539,8 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u
 #EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934d8aa9.png" group-title="Sports", Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="Sports",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2
+http://dds.oncast.me:1934/dlive/sp8.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2020/01/GEO-SUPER-Live-Streaming.jpg" group-title="Sports", Geo Super 1
 #EXTVLCOPT:network-caching=1000
@@ -1555,6 +1558,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/K_Sports.png/200px-K_Sports.png"group-title="Sports",K Sports
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",La Li Ga
+http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z917lOnb.jpg"group-title="Sports",NBA TV
 http://84.22.33.214/nbatv/index.m3u8
@@ -1577,9 +1583,7 @@ https://236s.short.gy/DreamTV/PTV.m3u8
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports" ,Ten Sports
-#EXTVLCOPT:network-caching=1000
-http://208.86.19.21/711.stream/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="Sports",Red Bull TV
@@ -1594,8 +1598,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/726.stream/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Od94glkb.jpg"group-title="Sports",Sony 10 2
+http://dds.oncast.me:1934/dlive/sp1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jvb.jpg"group-title="Sports",Sony 10 3 1
 #EXTVLCOPT:network-caching=1000
@@ -1608,7 +1612,8 @@ http://208.86.19.21:80/712.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony 6 1
 #EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
+http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony 6 2
 #EXTVLCOPT:network-caching=1000
@@ -1643,8 +1648,8 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 #EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports" ,Ten Sports
+http://dds.oncast.me:1934/dlive/sp5.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 1
 #EXTVLCOPT:network-caching=1000
@@ -1675,6 +1680,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 tvg-logo="https://www.maryville.edu/wp-conts-channel-logo.png" group-title="Sports",Willow HD
 http://nicefly.xyz:80/h21041003/651032140/246246
 
+#EXTINF:0 tvg-logo="https://www.maryville.edu/wp-conts-channel-logo.png" group-title="Sports",Willow 
+http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8
 
 
 
