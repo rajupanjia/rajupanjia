@@ -290,10 +290,10 @@ http://208.86.19.21/502.stream/index.m3u8
 http://str24.l9574.com/502.stream/index.m3u8
 
 
-#EXTINF:-1 tvg-log.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh", Maasranga 1
 http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
 
-#EXTINF:-1 tvg-log.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladesh", Maasranga 2
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Z1Cu8xi.png" group-title="Bangladesh", Nagorik Tv
@@ -385,14 +385,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTV Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/EBV33JTb.jpg",Discovery Science
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/ESeGnT2.jpg",Discovery Science
 #EXTVLCOPT:network-caching=1000
 http://103.153.39.36:8000/play/a01k
-
-
-#EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery HD
-#EXTVLCOPT:network-caching=1000
-http://103.131.212.138:8000/play/a004
 
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
@@ -447,7 +442,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 tvg-logo="https://br2017/11/logo-300x200.png" group-title="Documentary" ,RT
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" group-title="Documentary" ,RT
 http://103.159.4.38:5868/ENTEMENT-5/tracks-v1a1/mono.m3u8
 
 
@@ -456,10 +451,10 @@ http://103.159.4.38:5868/ENTEMENT-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",B Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary",Xplore TV
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/07/b9/bf/07b9bf01-bea5-d426-5fd0-2ed38677060e/source/60x60bb.jpg",Xplore TV
 https://xplore-plex.amagi.tv/playlist720-p.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",Go traveler FHD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.zone.tv/wp-content/uploads/2020/02/GoTraveler_All-White-Logo.png",Go traveler FHD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/iXwGMoe.png",TLC HD (USA-2)
@@ -470,18 +465,16 @@ https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Documentary",Game & Fish USA
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.gameandfishmag.com/magazine/img/gf/logo.svg",Game & Fish USA
 https://obsession-media.sinclair.wurl.com/manifest/3000.m3u8
 
-#EXTINF:-1 group-title="Documentary",InWild TV
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-210412113A00-L.jpg",InWild TV
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",Tastemade Travel
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2021/11/travel_logo_with_Image_3-1096x477.jpg",Tastemade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 group-title="Documentary",iFood TV
-https://ft-ifood-roku.amagi.tv/playlist1080p.m3u8
 
 
 
@@ -797,7 +790,7 @@ PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVpZDBOV2F0RkdiemxtYjBGMkxKUkZVdWhHVXBGV00xY1ZZ
 https://rhridoy136.shortcm.li/atnislamic.m3u8
 
 
-#EXTINF:-1 group-title="Islamic" tvg-logo="http:/amic.tv/images/logo.png", Makkah TV
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/04/makkahtv.jpg", Makkah TV
 #EXTVLCOPT:network-caching=1000
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
@@ -862,11 +855,11 @@ http://103.157.210.165:8000/play/a00r/index.m3u8
 http://103.153.39.36:8000/play/a020
 
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",EBS Kids
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ebs-kids-7777-150x112.jpg" group-title="Kids",EBS Kids
 #EXTVLCOPT:network-caching=1000
 PT1BTzNjVE4xWWpOeWdUTXdZSGR3bEdibGgyYnoxamJsdDJiMDlETzFOVGJ1UTNjcHhXZWh4R2N2c0dNd1VEZGx4bVloUjNMckJETTFRWFpzSldZMFYzY2lWMkwxTVRPeG9qY3I1eWJqNXljaVZtTHlsV1l1OTJjaVYyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",EBS KIDS 2
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ebs-kids-7777-150x112.jpg" group-title="Kids",EBS KIDS 2
 #EXTVLCOPT:network-caching=1000
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2c0dNd1VEZGx4bVloUjNMckJETTFRWFpzSldZMFYzY2lWMkwxTVRPeG9qY3I1eWJqNXljaVZtTHlsV1l1OTJjaVYyTHZvRGMwUkhh
 
@@ -924,7 +917,7 @@ http://103.70.140.27:8080/hls/duronto.m3u8
 #EXTVLCOPT:network-caching=1000
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Manuranjon Grand
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201908/manoranjan-grand.jpg" group-title="Kids",Manuranjon Grand
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0m2/index.m3u8
 
@@ -933,36 +926,31 @@ http://14.199.164.20:4001/play/a0m2/index.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Spacetoon" tvg-logo="" group-title="Kids",Spacetoon
+#EXTINF:-1 tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Spacetoon_logo.png/220px-Spacetoon_logo.png" group-title="Kids",Spacetoon
 #EXTVLCOPT:network-caching=1000
 PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MME5YYXNsWFlzQjNMc2xXYno1Q2JwMTJjbFpYYXNwRGJwMTJjdndXWnU1V1lvTkdkejlTWjJsR2J2VXpNNUVqT3Q5Mll1NDJidlJYWmpGR2N6NVNiaFZtYzBOM0x2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-name="3ABN KIDS TV" tvg-logo="" group-title="Kids",3ABN KIDS TV
+#EXTINF:-1 tvg-name="3ABN KIDS TV" tvg-logo="https://lookhu.tv/uploads/tv_image/sm/3abn-kids-tv.jpg" group-title="Kids",3ABN KIDS TV
 #EXTVLCOPT:network-caching=1000
 aVNvNFdSVkxsWlhhTTlETzFOVGJ1SVhaME5YWXQ5U1p5VjNZbE4zTDRFek15VWpOdlVtZHB4Mkx6eEdhdlFYWnU1Q1pvbFdZdEYyYWg1U2F0TUhib1pIZHdsMmJ0OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Sonic Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids",Sonic Bangla
 #EXTVLCOPT:network-caching=1000
 https://cutt.ly/sonicB
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",GUBBARE KIDS
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2020/11/gubbare-696x464.jpg" group-title="Kids",GUBBARE KIDS
 #EXTVLCOPT:network-caching=1000
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 
-#EXTINF:-1 group-title="Kids",Toonix
+#EXTINF:-1 tvg-logo="https://toonix.com/img/toonix_logo_fav.png" group-title="Kids",Toonix
 http://51.210.227.134/hls/stream.m3u8
 
-
-#EXTINF:-1 group-title="Kids",Kidflix TV
+#EXTINF:-1 tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="Kids", Kidflix TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 
-
-#EXTINF:-1 group-title="Kids",Universal KIDS USA
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/210px-Universal_Kids_2019_Logo.svg.png",Universal KIDS USA
 http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids",Kidz Zone USA
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6502/index.m3u8
 
 
 
@@ -976,9 +964,8 @@ http://58.65.171.202:8000/play/2009/index.m3u8
 http://iptv.prosto.tv:7000/ch320/video.m3u8
 
 
-#EXTINF:-1 group-title="Kids",PBS Kids
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/150px-PBS_Kids_Logo.svg.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="Kids", Sony Yay
@@ -1004,7 +991,7 @@ https://cutt.ly/sYaY
 ================================================= : Music : =================================================
 
 
-#EXTINF:-15 tvg-logo="http://www.jagobd.com/ffwp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="MUSIC",Boishakhi Plus
+#EXTINF:-15 tvg-logo="https://pcdn1.jagobd.com/images/m-7yiyj1607869140946.jpg" group-title="MUSIC",Boishakhi Plus
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/live-orgin/boishakhiplus.stream/chunks.m3u8
 
 
