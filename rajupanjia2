@@ -1646,7 +1646,7 @@ http://dds.oncast.me:1934/dlive/sp5.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 1
 #EXTVLCOPT:network-caching=1000
-http://208.86.19.21:80/905.stream/index.m3u8
+http://103.70.140.27:8080/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 2
 #EXTVLCOPT:network-caching=1000
