@@ -174,6 +174,14 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1642959605&md
 #EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangladesh",Gazi TV 3
 http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1437616252.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangladesh",Gazi TV 4
+http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangladesh",Gazi TV 5
+http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Bangladesh",Gazi TV 6
+http://103.70.140.27:8080/hls/gtv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://s6.gifyu.com/images/independent75cb8784de04a5db.png" group-title="Bangladesh",Independent 1
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -713,7 +721,8 @@ http://luckonline.eu:8080/live/CukyFcVq20/sHong3Hzd0/538.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",ZBC 2
 http://208.86.19.21/708.stream/index.m3u8
 
-
+#EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",ZBC 3
+http://62.210.125.58:25461/live/carter/GUV1bMq2VK/3408.m3u8?token=TURYAhZYEAwSUFQEDAFTVQxRBgdUDVYHVVUCB1QNB1EPAFEFV1ILV1NGTxBLF0AGVA9uD1IbCQUFA1wZREwVAEQ5WQdHChAEAlVRAAlBHkFBC1wDFAMDGhNDDVFEA0RWBlIHU0ccEFNIEAZAVgJePFEHRw9VXBEMX0YIWUobCQtpAlUOBF5WFApGUxAUQVsQRUALCENVXxoTUQ1BFFgSABRcElJVBQEUHEYAXU0NRhFMQAtEdH0RGhNWHEEDVxUMWQgSWUddAUMIRk8QURBtEVARRRRTWF5TQxFeF1cbSkdbB0g8Bl9cWFUHF1tXDUFBD0AEVhQVEVteXQ1BCUs5FV8CEllHAwICBFBBTw==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Enter 10 Bangla
 #EXTVLCOPT:network-caching=1000
@@ -733,8 +742,8 @@ http://14.199.164.20:4001/play/a0rh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2021/08/Colors-Bangla.webp" group-title="Indian-Bangla", Colors Bangla 1
 #EXTVLCOPT:network-caching=1000
-http://208.86.19.21:80/904.stream/index.m3u8
-
+#http://208.86.19.21:80/904.stream/index.m3u8
+http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Indian-Bangla",Star Jalsha 1
 #EXTVLCOPT:network-caching=1000
@@ -753,8 +762,10 @@ http://103.159.4.38:5868/STARJALSHA/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.86.19.21:80/716.stream/index.m3u8
 
-#EXTINF:-1 group-title="Indian-Bangla",Sony Aath
+#EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian-Bangla", Sun Bangla 1
 #EXTVLCOPT:network-caching=1000
@@ -776,7 +787,7 @@ http://208.86.19.21:80/906.stream/index.m3u8
 http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian-Bangla", Zee Bangla 3
-http://103.159.4.38:8080/IN-BANGLA-4/index.m3u8
+http://208.86.19.16/615.stream/tracks-v1a1/mono.m3u8
 
 
 
