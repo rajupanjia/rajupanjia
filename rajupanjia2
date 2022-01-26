@@ -435,12 +435,6 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="none" group-title="Documentary",Forecast
-#EXTVLCOPT:network-caching=1000
-https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentary" ,Love Nature
 #EXTVLCOPT:network-caching=1000
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -460,7 +454,7 @@ http://103.159.4.38:5868/ENTEMENT-5/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",B Adventure
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/07/b9/bf/07b9bf01-bea5-d426-5fd0-2ed38677060e/source/60x60bb.jpg",Xplore TV
@@ -477,7 +471,7 @@ https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.gameandfishmag.com/magazine/img/gf/logo.svg",Game & Fish USA
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.outdooramerica.com/uploads/2021/05/outdoor-america.png",Outdoor America
 https://obsession-media.sinclair.wurl.com/manifest/3000.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-210412113A00-L.jpg",InWild TV
