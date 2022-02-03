@@ -404,7 +404,7 @@ http://103.153.39.36:8000/play/a01k
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
 #EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
+http://39.62.59.114:9100/play/a04w
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Hindi
 #EXTVLCOPT:network-caching=1000
@@ -868,6 +868,9 @@ http://103.153.39.36:8000/play/a01y
 #EXTVLCOPT:network-caching=1000
 http://103.153.39.36:8000/play/a020
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/200px-Disney_Junior_logo.png" group-title="Kids",Disney Junior 2
+#EXTVLCOPT:network-caching=1000 
+http://39.62.59.114:9100/play/a04g
 
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ebs-kids-7777-150x112.jpg" group-title="Kids",EBS Kids
 #EXTVLCOPT:network-caching=1000
@@ -902,13 +905,18 @@ http://103.153.39.36:8000/play/a01z
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick HD +
 #EXTVLCOPT:network-caching=1000
 http://103.153.39.36:8000/play/a01c
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick HD+2
+#EXTVLCOPT:network-caching=1000
+http://180.178.130.180:8000/play/a047/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick Bangla 1
 #EXTVLCOPT:network-caching=1000
-https://cutt.ly/nickban
+http://thoptv.in1.bitmana.io/jioo.php?c=Nick_Bangla&q=1200&e=.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
 #EXTVLCOPT:network-caching=1000
@@ -982,9 +990,9 @@ http://iptv.prosto.tv:7000/ch320/video.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Sony Yay
+#EXTINF:-1 tvg-logo="" group-title="Kids", Marvel
 #EXTVLCOPT:network-caching=1000
-https://cutt.ly/sYaY
+http://39.62.59.114:9100/play/a04u
 
 
 #EXTINF:-1 tvg-logo="https://assets.tvokids.com/prod/s3fs-public/site-images/logos/tvokids-static-logo_2019.svg" group-title="Kids",Tvo Kids
@@ -1527,6 +1535,17 @@ http://belfast.dyndns.tv:5808/BEINHD12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",BEIN SPORTS MAX
 http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8
 
+#EXTINF:-145 tvg-logo="" group-title="Sports",Champions 2
+http://tvnid.wapgem.com/vidio/8.m3u8
+
+
+#EXTINF:-145 tvg-logo="" group-title="Sports",Champions 3
+http://tvnid.wapgem.com/vidio/9.m3u8
+
+
+#EXTINF:-145 tvg-logo="" group-title="Sports",Champions 1
+http://tvnid.wapgem.com/vidio/7.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",BEIN SPORTS 2 ARABIC (Backup-1)
 http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
@@ -1535,6 +1554,9 @@ http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 https://edgesport-samsunguk.amagi.tv/playlist360p.m3u8
 
+#EXTINF:-145 tvg-logo="" group-title="Sports",FH
+#EXTVLCOPT:network-caching=1000
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sports
 #EXTVLCOPT:network-caching=1000
@@ -1591,9 +1613,9 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 https://236s.short.gy/DreamTV/PTV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="Sports" ,PTV Sports 3
+#EXTINF:-1 tvg-logo="" group-title="Sports" ,ESPN
 #EXTVLCOPT:network-caching=1000
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 
 
@@ -1632,15 +1654,25 @@ http://103.131.212.138:8000/play/a029/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports
-#EXTVLCOPT:network-caching=1000
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports 1
+EXTVLCOPT:network-caching=1000
+http://93.152.174.144:4000/play/ssports1/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports"  ,Sky Sports Cricket
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports 2
+EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/skysports2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports 3
+EXTVLCOPT:network-caching=1000
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports 4
+EXTVLCOPT:network-caching=1000
+http://93.152.174.144:4000/play/skysports4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports 5
+EXTVLCOPT:network-caching=1000
+http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports" ,Ten Sports
 http://dds.oncast.me:1934/dlive/sp5.stream/chunks.m3u8
