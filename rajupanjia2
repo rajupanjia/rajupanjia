@@ -378,10 +378,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/VoiceTV.png/150px-VoiceTV.png" group-title="Bangladesh" ,Voice TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-
-
 
 
 
@@ -441,9 +437,6 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary" ,Nat Geo HD
-#EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" group-title="Documentary" ,RT
@@ -504,9 +497,6 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/768x4
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",SHOWTIME EXTREME
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/gHBvHes.jpg",Movies
 https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
@@ -523,12 +513,9 @@ PT1BTzFOVGJ1Z1haazVXYXZRek16OXljdmNYWjVJM2R4OVNNMTR5TTQ0aU55RWpMMVF6THZvRGMwUkhh
 #EXTVLCOPT:network-caching=1000
 http://93.157.62.180:80/FoxMovies/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/hbo.png" group-title="English" ,HBO 1
-#EXTVLCOPT:network-caching=1000
-https://m3u-editor.com/serve/a5871540-d9ba-11eb-89bc-3be21464c6be/328171610
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/hbo.png" group-title="English" ,HBO 2
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/hbo.png" group-title="English" ,HBO 1
+EXTVLCOPT:network-caching=1000
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png" group-title="English" ,Kix
@@ -822,10 +809,6 @@ http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV 3
-#EXTVLCOPT:network-caching=1000
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-
 
 
 
@@ -846,10 +829,6 @@ https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", CN 1
 #EXTVLCOPT:network-caching=1000
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", CN 2
-#EXTVLCOPT:network-caching=1000
-https://cutt.ly/CNbd
 
 #EXTINF:-1 tvg-id="ChinolaTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/axesNOe.png" group-title="Kids",Chinola TV 
 EXTVLCOPT:network-caching=1000
@@ -1070,25 +1049,18 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_480p/9XM-audio_208482_u
 #EXTVLCOPT:network-caching=1000
 NFUzTXQ1Q013WXpOM2dUUHZWR1pwWlhMd0FETTRBak05UW1iMTlsTTRRRE93SXpYdmxHWjFGV0xOaFZPdndXYnpsbUxOaFZPdjBFVzU4aWQwMXlhd0oyTDBWbWJ1UW5idkpuWmtWM2JzTm1MckZtWXdOWE5sQkhOd2hUY3lRMkx2b0RjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9xM 4
-#EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="MUSIC", 9X Jhakaas 1
 #EXTVLCOPT:network-caching=1000
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="MUSIC", 9X Jhakaas 2
-#EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/MUSIC-9/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
 http://ottss.online:8000/44122162500170/30316873476781/178763
 
-#EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv
-#EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/MUSIC-10/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="MUSIC",Music 4 ever
