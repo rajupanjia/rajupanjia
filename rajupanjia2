@@ -738,7 +738,7 @@ http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Indian-Bangla",Star Jalsha 2
 #EXTVLCOPT:network-caching=1000
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857
+https://live.durbinlive.com/hls/starjalsha.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Indian-Bangla",Star Jalsha 3
 #EXTVLCOPT:network-caching=1000
@@ -861,6 +861,9 @@ PT1BTzNjVE4xWWpOeWdUTXdZSGR3bEdibGgyYnoxamJsdDJiMDlETzFOVGJ1UTNjcHhXZWh4R2N2c0dN
 #EXTVLCOPT:network-caching=1000
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2c0dNd1VEZGx4bVloUjNMckJETTFRWFpzSldZMFYzY2lWMkwxTVRPeG9qY3I1eWJqNXljaVZtTHlsV1l1OTJjaVYyTHZvRGMwUkhh
 
+#EXTINF:-1 tvg-logo="" group-title="Kids",Hungama Kids
+EXTVLCOPT:network-caching=1000
+http://103.153.39.36:8000/play/a01x
 
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
 #EXTVLCOPT:network-caching=1000
