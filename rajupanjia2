@@ -598,9 +598,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dabangg TV" tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Hindi" ,Dabang TV 2
-#EXTVLCOPT:network-caching=1000
-https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",Filmy Movies
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
@@ -821,11 +818,6 @@ http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1f226546373d2c3e4df00e9bc6725e82e413f26e455afe9baa8e2f8d8f3dbc3e.png" group-title="Kids",Cocoro
-#EXTVLCOPT:network-caching=1000
-https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/5c0fc4b3-d333-4b6d-8a12-a01520c6bab8/0.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", CN 1
 #EXTVLCOPT:network-caching=1000
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
@@ -893,14 +885,7 @@ http://103.153.39.36:8000/play/a01z
 #EXTVLCOPT:network-caching=1000
 http://103.153.39.36:8000/play/a01c
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick HD+2
-#EXTVLCOPT:network-caching=1000
-http://180.178.130.180:8000/play/a047/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick Bangla 1
-#EXTVLCOPT:network-caching=1000
-http://thoptv.in1.bitmana.io/jioo.php?c=Nick_Bangla&q=1200&e=.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
 #EXTVLCOPT:network-caching=1000
@@ -911,15 +896,12 @@ http://103.157.210.165:8000/play/a00x/index.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV 1
-#EXTVLCOPT:network-caching=1000
-http://89.187.185.89:3232/ban-duronto/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV 1
 #EXTVLCOPT:network-caching=1000
 http://103.70.140.27:8080/hls/duronto.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV 2
 #EXTVLCOPT:network-caching=1000
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
@@ -978,10 +960,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTVLCOPT:network-caching=1000
 http://39.62.59.114:9100/play/a04u
 
-
-#EXTINF:-1 tvg-logo="https://assets.tvokids.com/prod/s3fs-public/site-images/logos/tvokids-static-logo_2019.svg" group-title="Kids",Tvo Kids
-#EXTVLCOPT:network-caching=1000
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/1500k/1500k.m3u8
 
 
 
@@ -1134,9 +1112,7 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png",Balle Balle
-#EXTVLCOPT:network-caching=1000
-https://mcncdndigital.com/balleballetv/index.m3u8
+
 
 
 
@@ -1169,9 +1145,6 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTVLCOPT:network-caching=1000
 PT1BTzFOVGJ1UWpOMUV6WHlWR2R6RldidkVHWnVGbWJoQm5ZaDlDTXpVVE4yY3pMbFpYYXM5eWNzaDJMelFETjZRWFp1NUNab2xXWXRGMmFoNVNhdEFuWWg5eUw2TUhjMFJIYQ==
 
-#EXTINF:-56 tvg-logo="https://1.bp.blogspot.com/-LA8ncKcriPs/Xp6M6FXWJVI/AAAAAAAAAA8/RHimD6ijrnIwbh-u7FKdbeXcnGZ2H0_YACLcBGAsYHQ/s1600/abp-bengali-og.webp" group-title="News",Abp Ananda 3
-#EXTVLCOPT:network-caching=1000
-PT1BTzFOVGJ1SVhaME5YWXQ5U1lrNVdZdUZHY2lGMkx3TVROMVl6TnZVbWRweDJMenhHYXZRWFp1NUNab2xXWXRGMmFoNVNhdEFuWWg5eUw2TUhjMFJIYQ==
 
 #EXTINF:-56 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="News",News 18 Bangla
 #EXTVLCOPT:network-caching=1000
