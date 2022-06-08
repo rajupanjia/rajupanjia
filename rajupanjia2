@@ -674,22 +674,13 @@ http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTVLCOPT:network-caching=1000
 PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVpZDBOV2F0RkdiemxtYjBGMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNXlkbGxtZDV0MmN3MVdaMDl5TDZNSGMwUkhh
 
-#EXTINF:-1 group-title="Islamic" tvg-logo="http://www.atnislamic.tv/images/logo.png", ATN Islamic 2
-#EXTVLCOPT:network-caching=1000
-https://rhridoy136.shortcm.li/atnislamic.m3u8
 
 
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/04/makkahtv.jpg", Makkah TV
-#EXTVLCOPT:network-caching=1000
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
 #EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV 1
 #EXTVLCOPT:network-caching=1000
 http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 
-#EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV 2
-#EXTVLCOPT:network-caching=1000
-http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 
 
 
@@ -708,14 +699,9 @@ http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
-#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/axesNOe.png" group-title="Kids",Chinola TV 
-EXTVLCOPT:network-caching=1000
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://durbinlive.com/uploads/tv_image/khushboo-bangla.jpg",Khusbho Bangla
-#EXTVLCOPT:network-caching=1000
-http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids",Disney 
 #EXTVLCOPT:network-caching=1000
@@ -727,9 +713,7 @@ http://103.153.39.36:8000/play/a01y
 #EXTVLCOPT:network-caching=1000
 http://103.153.39.36:8000/play/a020
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/200px-Disney_Junior_logo.png" group-title="Kids",Disney Junior 2
-#EXTVLCOPT:network-caching=1000 
-http://39.62.59.114:9100/play/a04g
+
 
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ebs-kids-7777-150x112.jpg" group-title="Kids",EBS Kids
 #EXTVLCOPT:network-caching=1000
@@ -755,9 +739,6 @@ eUVVSjBnVEp5VVVKV1JWTGxaWGFNOURPMU5UYnVFRE12UUROeGcyTG85U04wUVRPeVIyTDRFek01Z2pa
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick 1
-#EXTVLCOPT:network-caching=1000
-http://125.209.88.166:45793/BRN/Nickelodeon.stream/playlist.m3u8
 
 
 
@@ -765,11 +746,6 @@ http://125.209.88.166:45793/BRN/Nickelodeon.stream/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.153.39.36:8000/play/a01z
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick HD +
-#EXTVLCOPT:network-caching=1000
-http://103.153.39.36:8000/play/a01c
 
 
 
@@ -782,14 +758,6 @@ http://tv2.ebox.live:8080/live/nick.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV 1
-#EXTVLCOPT:network-caching=1000
-http://103.70.140.27:8080/hls/duronto.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV 2
-#EXTVLCOPT:network-caching=1000
-http://89.187.185.89:3232/ban-duronto/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201908/manoranjan-grand.jpg" group-title="Kids",Manuranjon Grand
 #EXTVLCOPT:network-caching=1000
@@ -808,9 +776,7 @@ PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MME5YYXNsWFlzQjNMc2xXYno1Q2JwMTJjbFpYYXNwRGJwMTJj
 #EXTVLCOPT:network-caching=1000
 aVNvNFdSVkxsWlhhTTlETzFOVGJ1SVhaME5YWXQ5U1p5VjNZbE4zTDRFek15VWpOdlVtZHB4Mkx6eEdhdlFYWnU1Q1pvbFdZdEYyYWg1U2F0TUhib1pIZHdsMmJ0OXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids",Sonic Bangla
-#EXTVLCOPT:network-caching=1000
-https://cutt.ly/sonicB
+
 
 #EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2020/11/gubbare-696x464.jpg" group-title="Kids",GUBBARE KIDS
 #EXTVLCOPT:network-caching=1000
@@ -823,16 +789,10 @@ http://51.210.227.134/hls/stream.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/210px-Universal_Kids_2019_Logo.svg.png",Universal KIDS USA
-http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Sw1rCgm.png",Lego TV
 https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/lhGwCpE.jpg",BBC Cartoon
-http://58.65.171.202:8000/play/2009/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/4EdpqA7.png",BBC Cbeebies
 http://iptv.prosto.tv:7000/ch320/video.m3u8
@@ -842,9 +802,6 @@ http://iptv.prosto.tv:7000/ch320/video.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Marvel
-#EXTVLCOPT:network-caching=1000
-http://39.62.59.114:9100/play/a04u
 
 
 
