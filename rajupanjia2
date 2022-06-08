@@ -1473,29 +1473,10 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTVLCOPT:network-caching=1000
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",BEIN SPORTS USA-1
-http://belfast.dyndns.tv:5808/BEINHD11/tracks-v1a1/mono.m3u8
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",BeIN Sports Prem
+#EXTVLCOPT:network-caching=1000
+http://195.154.242.24:8001/play/a00a/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",BEIN SPORTS USA-2
-http://belfast.dyndns.tv:5808/BEINHD12/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",BEIN SPORTS MAX
-http://belfast.dyndns.tv:5808/BEINHD13/tracks-v1a1/mono.m3u8
-
-#EXTINF:-145 tvg-logo="" group-title="Sports",Champions 2
-http://tvnid.wapgem.com/vidio/8.m3u8
-
-
-#EXTINF:-145 tvg-logo="" group-title="Sports",Champions 3
-http://tvnid.wapgem.com/vidio/9.m3u8
-
-
-#EXTINF:-145 tvg-logo="" group-title="Sports",Champions 1
-http://tvnid.wapgem.com/vidio/7.m3u8
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",BEIN SPORTS 2 ARABIC (Backup-1)
-http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/HAbltI8b.jpg" group-title="Sports",EDGE
 #EXTVLCOPT:network-caching=1000
@@ -1529,10 +1510,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cricketlivezone.com/wp-content/uploads/2020/01/GEO-SUPER-Live-Streaming.jpg" group-title="Sports", Geo Super 2
-#EXTVLCOPT:network-caching=1000
-http://208.86.19.21/725.stream/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" group-title="Sports", FOX Sports News HD 
 #EXTVLCOPT:network-caching=1000
@@ -1557,7 +1534,7 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="Sports" ,PTV Sports 2
-https://236s.short.gy/DreamTV/PTV.m3u8
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" ,ESPN
@@ -1565,14 +1542,9 @@ https://236s.short.gy/DreamTV/PTV.m3u8
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="Sports",Red Bull TV
 #EXTVLCOPT:network-caching=1000
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Od94glkb.jpg"group-title="Sports",Sony 10 1 1
@@ -1589,20 +1561,15 @@ http://103.170.140.8/hls/sonyten2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Od94glkb.jpg"group-title="Sports",Sony 10 2 2
 EXTVLCOPT:network-caching=1000
-http://45.127.244.7:8080/hls/channel5.m3u8
+http://208.86.19.13:81/712.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jvb.jpg"group-title="Sports",Sony 10 3 1
 EXTVLCOPT:network-caching=1000
-http://103.170.140.8/hls/sonyten3.m3u8
-
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony 6 1
 EXTVLCOPT:network-caching=1000
-http://103.170.140.8/hls/sonysix.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports",Sony 6 2
-EXTVLCOPT:network-caching=1000
-http://45.127.244.7:8080/hls/channel6.m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Six_HD&q=400&e=junk.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 1 1
@@ -1613,18 +1580,12 @@ http://45.127.244.7:8080/hls/channel9.m3u8
 EXTVLCOPT:network-caching=1000
 http://103.170.140.8/hls/starsports2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 2 2
-EXTVLCOPT:network-caching=1000
-http://45.127.244.7:8080/hls/channel7.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports Select 1
 EXTVLCOPT:network-caching=1000
 http://103.170.140.8/hls/Star_Sport_Select1HD.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports Select 2
-EXTVLCOPT:network-caching=1000
-http://103.170.140.8/hls/select2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports 1
 EXTVLCOPT:network-caching=1000
@@ -1647,7 +1608,7 @@ EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports" ,Ten Sports
-http://dds.oncast.me:1934/dlive/sp5.stream/chunks.m3u8
+http://208.86.19.13:81/711.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 1
@@ -1656,23 +1617,7 @@ http://45.127.244.7:8080/hls/channel2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 2
 EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports 3
-EXTVLCOPT:network-caching=1000
-http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports 4
-EXTVLCOPT:network-caching=1000
-http://live.flixhub.net/hls/t-sports.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports 5
-EXTVLCOPT:network-caching=1000
-http://103.84.253.5/live/0/index.m3u8
-
-#EXTINF:0 tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/tennis-channel-logo.png" group-title="Sports",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+http://103.136.200.246:8082/T-Sports/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://www.maryville.edu/wp-conts-channel-logo.png" group-title="Sports",Euro Sports
