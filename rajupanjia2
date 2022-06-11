@@ -1363,7 +1363,7 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 2
 EXTVLCOPT:network-caching=1000
-http://103.136.200.246:8082/T-Sports/index.m3u8
+http://stream.accessnetbd.com/hls/sky12.m3u8
 
 
 #EXTINF:0 tvg-logo="https://www.maryville.edu/wp-conts-channel-logo.png" group-title="Sports",Euro Sports
