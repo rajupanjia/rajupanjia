@@ -243,8 +243,9 @@ http://nandansyst.com/hls/nandan.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic 
+#EXTVLCOPT:network-caching=1000
+http://91.215.188.171:8001/play/58/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Hindi
@@ -616,14 +617,17 @@ http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 ================================================= : Kids : =================================================
 
 
+#EXTINF:-1 tvg-logo="" group-title="Kids", Ani
+#EXTVLCOPT:network-caching=1000
+http://91.215.188.171:8001/play/211/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", CN 1
 #EXTVLCOPT:network-caching=1000
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="Kids", CTC Kids
+http://91.215.188.171:8001/play/18480455/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids",Disney 
 #EXTVLCOPT:network-caching=1000
