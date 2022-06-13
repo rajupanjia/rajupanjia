@@ -242,6 +242,14 @@ http://nandansyst.com/hls/nandan.m3u8
 ================================================= : Documentary : =================================================
 
 
+#EXTINF:-1 tvg-logo="" group-title="Documentary", Animal Planet Carnival
+#EXTVLCOPT:network-caching=1000
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary", Discovery Carnival
+#EXTVLCOPT:network-caching=1000
+http://tv2.ebox.live:8080/live/discovery.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic 
 #EXTVLCOPT:network-caching=1000
@@ -453,6 +461,10 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment Carnival
+#EXTVLCOPT:network-caching=1000
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi", Sony SAB
 #EXTVLCOPT:network-caching=1000
@@ -472,6 +484,11 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_360p/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max Carnival
+#EXTVLCOPT:network-caching=1000
+http://tv2.ebox.live:8080/live/sony-max.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus 
 #EXTVLCOPT:network-caching=1000
@@ -548,6 +565,10 @@ http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
 EXTVLCOPT:network-caching=1000
 http://str24.l9574.com:80/616.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2021/08/Colors-Bangla.webp" group-title="Indian-Bangla", Colors Bangla Carnival
+EXTVLCOPT:network-caching=1000
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2021/08/Colors-Bangla.webp" group-title="Indian-Bangla", Colors Bangla Cinema
 EXTVLCOPT:network-caching=1000
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
@@ -559,6 +580,9 @@ http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Indian-Bangla",Star Jalsha Carnival
+#EXTVLCOPT:network-caching=1000
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Indian-Bangla",Jalsha Movies 1
 #EXTVLCOPT:network-caching=1000
@@ -579,6 +603,11 @@ http://103.55.144.46/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian-Bangla", Zee Bangla 1
 EXTVLCOPT:network-caching=1000
 http://str24.l9574.com:80/615.stream/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian-Bangla", Zee Bangla Movies
+EXTVLCOPT:network-caching=1000
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 
 
 
