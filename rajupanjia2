@@ -254,26 +254,25 @@ https://obsession-media.sinclair.wurl.com/manifest/3000.m3u8
 
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.pinimg.com/564x/78/c3/ac/78c3ac7803abcdf381cb6b7fc7c40b31.jpg",Dove Ch
+#EXTVLCOPT:network-caching=1000
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/768x432_1425600/chunklist.m3u8
 
+
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",Dubai One
+#EXTVLCOPT:network-caching=1000
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 
 
 
 #EXTINF:-1 group-title="English" tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png",Moviehub
+#EXTVLCOPT:network-caching=1000
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg" group-title="English",Thrill (480p)
 #EXTVLCOPT:network-caching=1000
 PT1BTzFOVGJ1Z1haazVXYXZRek16OXljdmNYWjVJM2R4OVNNMTR5TTQ0aU55RWpMMVF6THZvRGMwUkhh
 
-
-
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/hbo.png" group-title="English" ,HBO 1
-EXTVLCOPT:network-caching=1000
-http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png" group-title="English" ,Kix
 #EXTVLCOPT:network-caching=1000
@@ -285,11 +284,6 @@ http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-
-
-#EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo=" " group-title="English",STAR WORLD HD (IN)
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
 
 
@@ -320,37 +314,10 @@ https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
 #EXTVLCOPT:network-caching=1000
 https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/bflix02a1893121c5a28f.jpg" group-title="Hindi" ,Bflix Movies 1
-#EXTVLCOPT:network-caching=1000
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?token=soheliptv01826655778
-
-#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/bflix02a1893121c5a28f.jpg" group-title="Hindi" ,Bflix Movies 2
-#EXTVLCOPT:network-caching=1000
-https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image8b841c5d9f2305be.png" group-title="Hindi" ,Box Cinema
-#EXTVLCOPT:network-caching=1000
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image31e74720e8e3434a.png" group-title="Hindi" ,B4U Movies
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0wj/index.m3u8
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/jbNSmlL.png",COLORS HD 1
-http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 group-title="Hindi",Colors HD 2
 http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSglHJm5p5ZfkpYBxsuFpwfNOhyOl0UvzU6T39JxV--3VAWe5Y&usqp=CAU",DD Nationa
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Hindi" ,Dabang TV 1
-#EXTVLCOPT:network-caching=1000
-http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",Filmy Movies
@@ -366,38 +333,10 @@ PT1BTzNjVE4xWWpOeWdUTXdZSGR3bEdibGgyYnoxamJsdDJiMDlETzFOVGJ1UTNjcHhXZWh4R2N2TVdh
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
-#EXTVLCOPT:network-caching=1000
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
-#EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi",UTV Action 
-#EXTVLCOPT:network-caching=1000
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment 
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment Carnival
-#EXTVLCOPT:network-caching=1000
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLmjHpX.png" group-title="Hindi", Sony SAB
-#EXTVLCOPT:network-caching=1000
-http://tvflixback0.hopto.org/702.stream/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Hindi" ,Manoranjan Movies 
-#EXTVLCOPT:network-caching=1000
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?token=soheliptv01826655778
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CGAhw1kUIAAvZ9P?format=jpg&name=small" group-title="Hindi" ,Maha Movie
-#EXTVLCOPT:network-caching=1000
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 1
 #EXTVLCOPT:network-caching=1000
@@ -405,19 +344,10 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max Carnival
-#EXTVLCOPT:network-caching=1000
-http://tv2.ebox.live:8080/live/sony-max.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus 
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Hindi" ,Wow Cinema
-#EXTVLCOPT:network-caching=1000
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="Hindi",Zee Action 
 #EXTVLCOPT:network-caching=1000
@@ -434,9 +364,7 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi",Zee TV 
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -484,9 +412,6 @@ http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
 EXTVLCOPT:network-caching=1000
 http://str24.l9574.com:80/616.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2021/08/Colors-Bangla.webp" group-title="Indian-Bangla", Colors Bangla Carnival
-EXTVLCOPT:network-caching=1000
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2021/08/Colors-Bangla.webp" group-title="Indian-Bangla", Colors Bangla Cinema
 EXTVLCOPT:network-caching=1000
@@ -498,10 +423,6 @@ http://103.55.144.46/hls/colore-bangla-cinema.m3u8
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/857
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Indian-Bangla",Star Jalsha Carnival
-#EXTVLCOPT:network-caching=1000
-http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Indian-Bangla",Jalsha Movies 1
 #EXTVLCOPT:network-caching=1000
@@ -524,9 +445,7 @@ EXTVLCOPT:network-caching=1000
 http://str24.l9574.com:80/615.stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian-Bangla", Zee Bangla Movies
-EXTVLCOPT:network-caching=1000
-http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+
 
 
 
@@ -548,10 +467,6 @@ PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVpZDBOV2F0RkdiemxtYjBGMkxKUkZVdWhHVXBGV00xY1ZZ
 
 
 
-#EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV 1
-#EXTVLCOPT:network-caching=1000
-http://199.223.252.162:8032/bangla_adaptive/index.m3u8
-
 
 
 
@@ -565,27 +480,11 @@ http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 ================================================= : Kids : =================================================
 
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Ani
-#EXTVLCOPT:network-caching=1000
-http://91.215.188.171:8001/play/211/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", CN 1
 #EXTVLCOPT:network-caching=1000
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Kids", CTC Kids
-http://91.215.188.171:8001/play/18480455/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids",Disney 
-#EXTVLCOPT:network-caching=1000
-http://103.153.39.36:8000/play/a01y
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/200px-Disney_Junior_logo.png" group-title="Kids",Disney Junior
-#EXTVLCOPT:network-caching=1000
-http://103.153.39.36:8000/play/a020
 
 
 
@@ -597,9 +496,7 @@ PT1BTzNjVE4xWWpOeWdUTXdZSGR3bEdibGgyYnoxamJsdDJiMDlETzFOVGJ1UTNjcHhXZWh4R2N2c0dN
 #EXTVLCOPT:network-caching=1000
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2c0dNd1VEZGx4bVloUjNMckJETTFRWFpzSldZMFYzY2lWMkwxTVRPeG9qY3I1eWJqNXljaVZtTHlsV1l1OTJjaVYyTHZvRGMwUkhh
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Hungama Kids
-EXTVLCOPT:network-caching=1000
-http://103.153.39.36:8000/play/a01x
+
 
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
 #EXTVLCOPT:network-caching=1000
@@ -615,27 +512,10 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick 2
-#EXTVLCOPT:network-caching=1000
-http://103.153.39.36:8000/play/a01z
-
-
-
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior Carnival
-#EXTVLCOPT:network-caching=1000
-http://tv2.ebox.live:8080/live/nick.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids",Nick Pluto   
 #EXTVLCOPT:network-caching=1000
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201908/manoranjan-grand.jpg" group-title="Kids",Manuranjon Grand
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0m2/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="Kids", Shemaroo Kids
 #EXTVLCOPT:network-caching=1000
@@ -645,11 +525,6 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Spacetoon_logo.png/220px-Spacetoon_logo.png" group-title="Kids",Spacetoon
 #EXTVLCOPT:network-caching=1000
 PT1nb0VLdVZVMVNaMmxHVC9nVGR6MG1MME5YYXNsWFlzQjNMc2xXYno1Q2JwMTJjbFpYYXNwRGJwMTJjdndXWnU1V1lvTkdkejlTWjJsR2J2VXpNNUVqT3Q5Mll1NDJidlJYWmpGR2N6NVNiaFZtYzBOM0x2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-name="3ABN KIDS TV" tvg-logo="https://lookhu.tv/uploads/tv_image/sm/3abn-kids-tv.jpg" group-title="Kids",3ABN KIDS TV
-#EXTVLCOPT:network-caching=1000
-aVNvNFdSVkxsWlhhTTlETzFOVGJ1SVhaME5YWXQ5U1p5VjNZbE4zTDRFek15VWpOdlVtZHB4Mkx6eEdhdlFYWnU1Q1pvbFdZdEYyYWg1U2F0TUhib1pIZHdsMmJ0OXlMNk1IYzBSSGE=
-
 
 
 #EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2020/11/gubbare-696x464.jpg" group-title="Kids",GUBBARE KIDS
@@ -672,8 +547,6 @@ https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
 http://iptv.prosto.tv:7000/ch320/video.m3u8
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/150px-PBS_Kids_Logo.svg.png",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
 
 
