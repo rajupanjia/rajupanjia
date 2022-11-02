@@ -184,13 +184,6 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv0182
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic 
-http://91.215.188.171:8001/play/58/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Hindi
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
-
 
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp 
@@ -223,16 +216,12 @@ https://xplore-plex.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.zone.tv/wp-content/uploads/2020/02/GoTraveler_All-White-Logo.png",Go traveler FHD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/iXwGMoe.png",TLC HD (USA-2)
-https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Documentary",Outdoor TV
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://media.outdooramerica.com/uploads/2021/05/outdoor-america.png",Outdoor America
-https://obsession-media.sinclair.wurl.com/manifest/3000.m3u8
 
 
 
@@ -277,13 +266,6 @@ PT1BTzFOVGJ1Z1haazVXYXZRek16OXljdmNYWjVJM2R4OVNNMTR5TTQ0aU55RWpMMVF6THZvRGMwUkhh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png" group-title="English" ,Kix
 #EXTVLCOPT:network-caching=1000
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
-
-
-
-#EXTINF:-1 group-title="English" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies 
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
 
 
 
