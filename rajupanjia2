@@ -297,38 +297,17 @@ https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
 https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
 
 
-#EXTINF:-1 group-title="Hindi",Colors HD 2
-http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",Filmy Movies
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi",MH 1
-#EXTVLCOPT:network-caching=1000
-PT1BTzNjVE4xWWpOeWdUTXdZSGR3bEdibGgyYnoxamJsdDJiMDlETzFOVGJ1UTNjcHhXZWh4R2N2TVdhelZYYmw1MmJvMTJMamwyYzExV1p1OUdhdDlTTnprVE02OFdaa2xtZHUwV1lsSkhkelJuY2gxMmN1QVhiMEozTHZvRGMwUkhh
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://s6.gifyu.com/images/imagec39ac09c7489ecff.png" tvg-name="Dil SE" tvg- group-title="Hindi",Dil SE
 #EXTVLCOPT:network-caching=1000
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment 
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 1
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus 
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Action.png" group-title="Hindi",Zee Action 
@@ -341,9 +320,6 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema 2
-#EXTVLCOPT:network-caching=1000
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
@@ -371,24 +347,6 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================= : Islamic : =================================================
-
-#EXTINF:-1 group-title="Islamic" tvg-logo="http://www.atnislamic.tv/images/logo.png", ATN Islamic 1
-#EXTVLCOPT:network-caching=1000
-PWdUZHowbUx6dG1iMWgyWXYwV1lsSkhkejVpZDBOV2F0RkdiemxtYjBGMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNXlkbGxtZDV0MmN3MVdaMDl5TDZNSGMwUkhh
 
 
 
