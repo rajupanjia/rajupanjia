@@ -222,7 +222,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Documentary",Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
+#EXTINF:-1 group-title="Documentary",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 
 
@@ -432,7 +436,8 @@ http://iptv.prosto.tv:7000/ch320/video.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Qm3X46H.png",SPACETOON KIDS
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 
 
@@ -894,11 +899,13 @@ http://93.152.174.144:4000/play/skysports5/index.m3u8
 http://208.86.19.13:81/711.stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 1 Carnival
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 
 EXTVLCOPT:network-caching=1000
-http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJngUmEHD.png" group-title="Sports", Gazi TV
+http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 
 
 
@@ -940,11 +947,6 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/8.m3u8
 #EXTINF:-1 group-title="BANGLA CINEMA" tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png",COLORS BANGLA CINEMA
 http://xtream.efiberbd.net:8080/live/mkaua/stream/9.m3u8
 
-#EXTINF:-1 ,T-Sports Freecatv
-http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 ,GAZI TV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-
 
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",Bangla TV(Jagobd)
@@ -959,48 +961,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",ATN Music(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://imgur.com/LNGJDc4.png",Amar Bangla
-http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-
-
-#EXTINF:-1 group-title="DOCUMENTARY",Wild EARTH
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-
-#EXTINF:-1 ,YTN Science
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/Qm3X46H.png",SPACETOON KIDS
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
-
-
-
-
-
-
-
-
 
 
 
