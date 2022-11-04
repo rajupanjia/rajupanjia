@@ -22,11 +22,18 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/Anando-TV.jpg" group-title="Bangladesh" ,Ananda TV 1
+http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/Anando-TV.jpg" group-title="Bangladesh" ,Ananda TV
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/Anando-TV.jpg" group-title="Bangladesh" ,Ananda TV 2
 #EXTVLCOPT:network-caching=1000
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imgpile.com/images/58J4A1.jpg",BANGLA 21 TV [BD]
+https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 
 
 
@@ -34,6 +41,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",Bangla TV(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/bangla-tv.jpg" group-title="Bangladesh" ,Bangla TV 1
@@ -65,9 +75,8 @@ NFUzTXQ1Q2VsUm1icDlDV1VsVFl0RmxjTlJqTWZsek4ySWpNdmcyY3B4bVkxQjNMekVtTjNVek0zTVRM
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="Bangladesh",Channel 24 1
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png",Channel 24(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="Bangladesh",Channel 24 3
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
@@ -84,6 +93,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangladesh",DBC News 1
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imgpile.com/images/58JTub.png",DOYEL TV [BD]
+https://cdn.appv.jagobd.com:444/live-orgin/doyeltv.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladesh",Ekattor TV 2
@@ -109,6 +121,9 @@ PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTG5KM2J0Z1RMMDVXWms1V1p3VkdadWwyTEpSRlV1aEdV
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/jamuna21bdfc3edba3ad6f.png" group-title="Bangladesh",Jamuna TV 1
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/mohondfa.jpg" group-title="Bangladesh",Mazic tv
+https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/mohona.jpg" group-title="Bangladesh",Mohona TV 1
@@ -153,6 +168,8 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 #EXTVLCOPT:network-caching=1000
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Rbgoal-TV.jpg" group-title="Bangladesh",SA tv
+http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg",Somoy TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
@@ -162,6 +179,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imgpile.com/images/58Ju8j.jpg",TiMES 24 IPTV
+https://cdn.appv.jagobd.com:444/live-orgin/times24tv.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/469153632630218752/Wy9glGYP_400x400.png" group-title="Bangladesh",MAQ TV 1
