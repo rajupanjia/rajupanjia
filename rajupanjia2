@@ -930,6 +930,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.efiberbd.net/logo/spst2.png",SONY TEN2 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
+
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://tv.efiberbd.net/logo/inbzb.png",ZEE BANGLA HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/5.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA HD
@@ -945,8 +946,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 
 
-#EXTINF:-1 ,SATV(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",Bangla TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png",Anando TV(Jagobd)
@@ -959,63 +959,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",ATN Music(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png",Sony Aath(BD)
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 
 
-#EXTINF:-1 ,Sony Six
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/363954.ts
-#EXTINF:-1 ,SonyTen 1
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/363950.ts
-#EXTINF:-1 ,SonyTen 2
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/363951.ts
-#EXTINF:-1 ,🇿🇦 DSTV SUPERSPORT Football
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/393236.ts
-#EXTINF:-1 ,🇿🇦 DSTV M NET 4
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/393196.ts
-#EXTINF:-1 ,🇿🇦 DSTV M NET 3
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/393195.ts
-#EXTINF:-1 ,🇿🇦 DSTV M NET 2
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/393194.ts
-#EXTINF:-1 ,🇿🇦 DSTV M NET 1
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/393193.ts
-#EXTINF:-1 ,🇿🇦 DSTV M NET
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/393192.ts
-#EXTINF:-1 ,BeinSport Premium 1
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/161721.ts
-#EXTINF:-1 ,BeinSport 1
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9480.ts
-#EXTINF:-1 ,BeinSport 2
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/13371.ts
-#EXTINF:-1 ,BeinSport 3
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9484.ts
-#EXTINF:-1 ,NetFlix Action
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/227231.ts
-#EXTINF:-1 ,NetFlix Action 2
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/227232.ts
-#EXTINF:-1 ,NetFlix Horror
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/227235.ts
-#EXTINF:-1 ,YES SPORT 1
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/176905.ts
-#EXTINF:-1 ,YES SPORT 2
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/176906.ts
-#EXTINF:-1 ,YES SPORT 3
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/176907.ts
-#EXTINF:-1 ,YES SPORT 4
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/176908.ts
-#EXTINF:-1 ,BeinSport 1
-http://0011.me:2052/live/928933886921/366953965440/510.ts
-#EXTINF:-1 ,BeinSport premium 1
-http://0011.me:2052/live/928933886921/366953965440/524.ts
-#EXTINF:-1 ,BeinSport Premium  2
-http://0011.me:2052/live/928933886921/366953965440/526.ts
-#EXTINF:-1 ,BeinSport AFC 1
-http://javaprotcol.com:2082/live/new-dreamstar/srdetysdfghxcf/141868.ts
-#EXTINF:-1 ,BeinSport AFC 3
-http://javaprotcol.com:2082/live/new-dreamstar/srdetysdfghxcf/141866.ts
-#EXTINF:-1 ,BeinSport Xtra 1
-http://javaprotcol.com:2082/live/new-dreamstar/srdetysdfghxcf/126826.ts
+
+
 
 
 
@@ -1043,21 +991,10 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="KIDS",Kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-
-
-#EXTINF:-1 group-title="KIDS",PBS KIDS
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-
-
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/Qm3X46H.png",SPACETOON KIDS
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/ySHY0Qz/Atnmusic.jpg",ATN MUSIC
-http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
+
 
 
 
