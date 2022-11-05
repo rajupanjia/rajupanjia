@@ -1010,36 +1010,38 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Freecatv",Sochi Live 4K
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Freecatv",IN Wild
 https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 group-title="Freecatv" tvg-logo="https://imgur.com/Rm8EPd0",Luxury World
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 group-title="Freecatv",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="Freecatv",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Freecatv",PTV Live
 http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
+
 #EXTINF:-1 group-title="Freecatv",Star Sports 1🔺
 http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 
 
 #EXTINF:-1 ,LIVE SPOSTS 1
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
+
 #EXTINF:-1 ,T SPORTS HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+
 #EXTINF:-1 ,GAZI TV HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
+
 #EXTINF:-1 ,STAR SPORTS 2 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/uDSFC8j.png",SONY SIX HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/uDSFC8j.png",SONY TEN1 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/uDSFC8j.png",SONY TEN2 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
+
 #EXTINF:-1 ,Ten 1
 http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ten 2
@@ -1054,52 +1056,36 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/22.m3u8
 
 
-#EXTINF:-1 ,Star Sports Select 2
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17923
+
 #EXTINF:-1 ,Sony sports 4
 https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
+
 #EXTINF:-1 ,DONY SPORTS 5
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
+
 #EXTINF:-1 ,Sony Six HD
 https://tvs1.aynaott.com/SonySix/index.m3u8
+
 #EXTINF:-1 ,Ten Sports
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
+
 #EXTINF:-1 ,BEIN SPORTS 1
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+
 #EXTINF:-1 ,BEIN SPOTS 3
 https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
+
 #EXTINF:-1 ,TOFFY LIVE SPORTS
 https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
 
 
 
 
-#EXTINF:-1 ,ESPN
-http://168.196.114.15/espnhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,UTV Action
-http://rv.bleutv.net:2089/152019521663077/152058336619947/206229
-#EXTINF:-1 ,STAR JALSHA
-http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/100642
-#EXTINF:-1 ,Star gold 2 Freecatv Live IPTV
-http://144.217.70.181:9587/hin2/STARGOLD2/playlist.m3u8?token=test
-#EXTINF:-1 ,Zee cinema Freecatv Live IPTV
-http://208.115.215.42/ZEE_CInema_HD/index.m3u8
-#EXTINF:-1 ,ZEE ACTION Freecatv Live IPTV
-http://208.115.215.42/ZEE_ActIon_HD/index.m3u8
-#EXTINF:-1 ,STAR GOLD (NEW)
-http://rv.bleutv.net:2089/152019521663077/152058336619947/206308
-#EXTINF:-1 ,7 Star
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 ,Discovery
 http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/100672
-#EXTINF:-1 ,Star gold 2 SD
-http://rv.bleutv.net:2089/152019521663077/152058336619947/206139
-#EXTINF:-1 ,Utv MOVIES HD
-http://rv.bleutv.net:2089/152019521663077/152058336619947/206228
-#EXTINF:-1 ,UTV HD
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Star Bharat SD
-http://208.86.19.13:81/721.stream/index.m3u8
+
+
 #EXTINF:-1 ,Eleven 1 HD 🇵🇹
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 #EXTINF:-1 ,08.Ekusey TV
