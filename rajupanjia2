@@ -223,6 +223,10 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv0182
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+
+#EXTINF:-68 tvg-logo="" group-title="Documentary" ,Discovery
+http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/100672
+
 #EXTINF:-68 tvg-logo="" group-title="Documentary",IN Wild
 https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
 
@@ -257,6 +261,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u
 #EXTINF:-1 group-title="Documentary",Outdoor TV
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/3mpHZPn.png",Rush Channel
+https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary",Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
@@ -931,10 +939,10 @@ http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="Sports",Red Bull TV
-#EXTVLCOPT:network-caching=1000
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jvb.jpg"group-title="Sports",Sony 10 3 1
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
@@ -951,8 +959,7 @@ http://45.127.244.7:8080/hls/channel9.m3u8
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports" ,Ten Sports
-http://208.86.19.13:81/711.stream/index.m3u8
-
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
@@ -977,6 +984,10 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",SONY SIX HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",SONY SIX HD
+https://tvs1.aynaott.com/SonySix/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst1.png",SONY TEN1 HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
@@ -1004,114 +1015,27 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",SONY SPORTS 5
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 ,Sony Six HD
-https://tvs1.aynaott.com/SonySix/index.m3u8
-
-#EXTINF:-1 ,Ten Sports
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
-
-#EXTINF:-1 ,BEIN SPORTS 1
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
-
-#EXTINF:-1 ,BEIN SPOTS 3
-https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
-
-#EXTINF:-1 ,TOFFY LIVE SPORTS
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,TOFFY LIVE SPORTS
 https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
 
-
-
-
-
-#EXTINF:-1 ,Discovery
-http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/100672
-
-
-#EXTINF:-1 ,72.Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/3mpHZPn.png",80.Rush Channel
-https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 ,Champions TV
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-
-#EXTINF:-1 ,Live Sports-Freecatv
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,TOFFY LIVE SPORTS
 https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 
-#EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png",Sony Max HD(BD)
-http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
 
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,Champions TV
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
-
-#EXTINF:-1 ,Geo Super
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,Geo Super
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
 
 
 
 
 
-#EXTINF:-1 ,Sony Six
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/363954.ts
 
-#EXTINF:-1 ,SonyTen 2
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/363951.ts
 
-#EXTINF:-1 ,🇿🇦 DSTV SUPERSPORT Football
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/393236.ts
 
-#EXTINF:-1 ,BeinSport AFC 1
-http://javaprotcol.com:2082/live/new-dreamstar/srdetysdfghxcf/141868.ts
 
-#EXTINF:-1 ,BeinSport AFC 3
-http://javaprotcol.com:2082/live/new-dreamstar/srdetysdfghxcf/141866.ts
+
 
 
