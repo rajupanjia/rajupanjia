@@ -373,21 +373,24 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Amar Bangla" tvg-logo="" group-title="Indian-Bangla",Amar Bangla
-#EXTVLCOPT:network-caching=1000
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Sony Aath
-EXTVLCOPT:network-caching=1000
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-
 
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbzb.png",ZEE BANGLA HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/5.m3u8
 
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbzb.png",ZEE BANGLA
+https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbzb.png",ZEE BANGLA
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131691
+
+
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbzb.png",ZEE BANGLA tr
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145632
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbzb.png",ZEE BANGLA
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131693
@@ -395,14 +398,34 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131693
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA 
 http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/100642
 
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA tr
+http://iptvtree.net:8080/86488e81/5e48c38fdd/12979
+
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
+
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA HD Freecatv
+https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbjm.png",JALSHA MOVIE HD
 http://xtream.efiberbd.net:8080/live/mkaua/stream/8.m3u8
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png",COLORS BANGLA CINEMA
 http://xtream.efiberbd.net:8080/live/mkaua/stream/9.m3u8
+
+
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png",Colors Bangla
+https://tvs1.aynaott.com/ColorsBangla/index.m3u8
+
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png",Colors Bangla SD 
+http://208.86.19.13:81/904.stream/index.m3u8
+
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png",Colors বাংলা HD
+http://208.86.19.13:81/616.stream/index.m3u8
+
+
+
+
 
 
 
@@ -895,8 +918,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/200px-PTV_Sports.png" group-title="Sports" ,PTV Sports 1
-#EXTVLCOPT:network-caching=1000
-http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" ,ESPN
@@ -911,20 +933,17 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jvb.jpg"group-title="Sports",Sony 10 3 1
-EXTVLCOPT:network-caching=1000
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 1 1
-EXTVLCOPT:network-caching=1000
 http://45.127.244.7:8080/hls/channel9.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports 5
-EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports" ,Ten Sports
@@ -932,7 +951,6 @@ http://208.86.19.13:81/711.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 
-EXTVLCOPT:network-caching=1000
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
 
@@ -963,6 +981,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst2.png",LIVE SPOSTS 1
+http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 
 
 
@@ -983,25 +1003,21 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 
 
 
-#EXTINF:-1 ,Colors Bangla
-https://tvs1.aynaott.com/ColorsBangla/index.m3u8
-
-#EXTINF:-1 ,Colors Bangla SD Freecatv
-http://208.86.19.13:81/904.stream/index.m3u8
-
-#EXTINF:-1 ,Star Jalsha HD Freecatv
-https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Zee Bangla HD
-https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,ZEE BANGLA SD
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/131691
 
 
 
-#EXTINF:-1 group-title="Freecatv",Colors বাংলা HD
-http://208.86.19.13:81/616.stream/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Freecatv",KBS কার্টুন
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -1015,32 +1031,8 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
 
 
-#EXTINF:-1 group-title="Freecatv",PTV Live
-http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
-
-#EXTINF:-1 group-title="Freecatv",Star Sports 1🔺
-http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 
 
-#EXTINF:-1 ,LIVE SPOSTS 1
-http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
-
-#EXTINF:-1 ,T SPORTS HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-
-#EXTINF:-1 ,GAZI TV HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-
-#EXTINF:-1 ,STAR SPORTS 2 HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/uDSFC8j.png",SONY SIX HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/uDSFC8j.png",SONY TEN1 HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://imgur.com/uDSFC8j.png",SONY TEN2 HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 
 #EXTINF:-1 ,Ten 1
 http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
@@ -1124,9 +1116,5 @@ http://javaprotcol.com:2082/live/new-dreamstar/srdetysdfghxcf/141868.ts
 
 #EXTINF:-1 ,BeinSport AFC 3
 http://javaprotcol.com:2082/live/new-dreamstar/srdetysdfghxcf/141866.ts
-
-#EXTINF:-1 ,RMC Sports 1
-http://51.178.65.238:80/RMC1/index.m3u8
-
 
 
