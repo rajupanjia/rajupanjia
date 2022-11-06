@@ -223,6 +223,8 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv0182
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-68 tvg-logo="" group-title="Documentary",IN Wild
+https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
 
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Clarity 4K
@@ -420,8 +422,6 @@ https://tvs1.aynaott.com/ColorsBangla/index.m3u8
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png",Colors Bangla SD 
 http://208.86.19.13:81/904.stream/index.m3u8
 
-#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png",Colors বাংলা HD
-http://208.86.19.13:81/616.stream/index.m3u8
 
 
 
@@ -460,6 +460,10 @@ PT1BTzNjVE4xWWpOeWdUTXdZSGR3bEdibGgyYnoxamJsdDJiMDlETzFOVGJ1UTNjcHhXZWh4R2N2c0dN
 #EXTVLCOPT:network-caching=1000
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2c0dNd1VEZGx4bVloUjNMckJETTFRWFpzSldZMFYzY2lWMkwxTVRPeG9qY3I1eWJqNXljaVZtTHlsV1l1OTJjaVYyTHZvRGMwUkhh
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcoOBiZb.jpg" group-title="Kids",KBS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
@@ -985,75 +989,68 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/1.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Freecatv",KBS কার্টুন
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 group-title="Freecatv",Rongeen Toon
-http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Freecatv",IN Wild
-https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
-
-
-
-
-
-#EXTINF:-1 ,Ten 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",Ten 1
 http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Ten 2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",Ten 2
 https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Ten3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",Ten3
 http://tvs1.aynaott.com/Ten3HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bein Xtra
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",Bein Xtra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
-
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://tv.efiberbd.net/logo/inhse.png",SONY HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/22.m3u8
-
-
-
-#EXTINF:-1 ,Sony sports 4
-https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
-
-#EXTINF:-1 ,DONY SPORTS 5
+#EXTINF:-1 group-title="Sports" tvg-logo="",SONY SPORTS 5
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 ,Sony Six HD
 https://tvs1.aynaott.com/SonySix/index.m3u8
