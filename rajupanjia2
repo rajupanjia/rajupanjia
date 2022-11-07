@@ -372,10 +372,6 @@ http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
-
-#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbzb.png",ZEE BANGLA HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/5.m3u8
-
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbzb.png",ZEE BANGLA
 https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
 
@@ -395,8 +391,6 @@ http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/100642
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA tr
 http://iptvtree.net:8080/86488e81/5e48c38fdd/12979
 
-#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png", STAR JALSHA HD 1
 http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95769
