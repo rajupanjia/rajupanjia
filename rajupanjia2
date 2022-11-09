@@ -694,9 +694,6 @@ https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/in
 
 
 
-
-#EXTINF:-1 group-title="Old BDIX",Independent
-http://208.86.19.13:81/601.stream/index.m3u8
 #EXTINF:-1 group-title="Old BDIX",Somoy tv
 http://208.86.19.13:81/693.stream/index.m3u8
 #EXTINF:-1 group-title="Old BDIX",DBC
@@ -725,14 +722,6 @@ http://208.86.19.13:81/612.stream/index.m3u8
 http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-1 group-title="Old BDIX",Colors Bangla HD
 http://208.86.19.13:81/904.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",A Sports
-http://208.86.19.13:81/602.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Zee Bollywood
-http://208.86.19.13:81/701.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Sony Sab
-http://208.86.19.13:81/702.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",B4U Music
-http://208.86.19.13:81/733.stream/index.m3u8
 #EXTINF:-1 group-title="Old BDIX",Independent
 http://208.86.19.13:81/601.stream/index.m3u8
 #EXTINF:-1 group-title="Old BDIX",Somoy tv
@@ -753,28 +742,6 @@ http://208.86.19.13:81/626.stream/index.m3u8
 http://208.86.19.13:81/627.stream/index.m3u8
 #EXTINF:-1 group-title="Old BDIX",Deepto tv
 http://208.86.19.13:81/609.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Gaan Bangla
-http://208.86.19.13:81/612.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Sangeet Bangla
-http://208.86.19.13:81/907.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Zee Bangla Cinama
-http://208.86.19.13:81/708.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Colors Bangla HD
-http://208.86.19.13:81/904.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Akash Aath
-http://208.86.19.13:81/902.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",A Sports
-http://208.86.19.13:81/602.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Zee Bollywood
-http://208.86.19.13:81/701.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Sony Sab
-http://208.86.19.13:81/702.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Max-2
-http://208.86.19.13:81/730.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Zee Music
-http://208.86.19.13:81/719.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",B4U Music
-http://208.86.19.13:81/733.stream/index.m3u8
 
 
 
@@ -1015,7 +982,6 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" ,ESPN
-#EXTVLCOPT:network-caching=1000
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 
@@ -1038,11 +1004,20 @@ http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports" ,Ten Sports
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 
+http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 2
 http://103.78.255.178:8080/starselect1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJngUmEHD.png" group-title="Sports", Gazi TV z
+http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJngUmEHD.png" group-title="Sports", Gazi TV
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
