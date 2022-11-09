@@ -60,7 +60,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
-
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Bangladesh",BTV World 1
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
@@ -78,9 +77,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="Bangladesh",Channel 24 3
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png",Channel 24(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangladesh" ,Channel I 1
@@ -142,10 +138,6 @@ PT1BTzFOVGJ1TTNhdVZIYWo5U2JoVm1jME5uTDJSbmJoNTJMSlJGVXVoR1VwRldNMWNWWTBKMVZoTm5S
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangladesh", NTV 1
-http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangladesh",News 24 1
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
@@ -166,7 +158,7 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 #EXTVLCOPT:network-caching=1000
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/l-TV.jpg" group-title="Bangladesh",SA tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/6-TV.jpg" group-title="Bangladesh",SA tv
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg",Somoy TV(Jagobd)
@@ -192,9 +184,7 @@ http://str24.l9574.com/517.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="Bangladesh",Deshe Bideshe
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://play-lh.googleusercontent.com/Y0nwwjoRJ9yTw_tpvw2Hqa2Im8KW0qCWb0b5tR87-_42bo2XMQ9ngIDGZuTP66exCA " group-title="Bangladesh",ITV
-#EXTVLCOPT:network-caching=1000
-http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
 
 
 
@@ -459,10 +449,6 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 eUVVSjBnVEp5VVVKV1JWTGxaWGFNOURPMU5UYnVFRE12UUROeGcyTG85U04wUVRPeVIyTDRFek01Z2paMllqWnhnell0SVdNNGdUTDRVV014MFNPMkVHWnRZak0xSXpZaU5ET3Y0MmJwTjNjbE4zTDFNakwxVVRNdUFUTXk0Q014SXpMdm9EYzBSSGE=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QcoOBiZb.jpg" group-title="Kids",Animax 2
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids",Nick Pluto   
@@ -501,8 +487,6 @@ http://iptv.prosto.tv:7000/ch320/video.m3u8
 
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Qm3X46H.png",SPACETOON KIDS
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 
 
@@ -523,8 +507,6 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 
 
-#EXTINF:-15 tvg-logo="https://pcdn1.jagobd.com/images/m-7yiyj946.jpg" group-title="MUSIC",Zoom
-http://nicefly.xyz:80/h21041003/651032140/246281
 
 
 
@@ -564,9 +546,6 @@ NFUzTXQ1Q013WXpOM2dUUHZWR1pwWlhMd0FETTRBak05UW1iMTlsTTRRRE93SXpYdmxHWjFGV0xoZEhi
 
 
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/sangeet-bnagla.png" group-title="MUSIC" ,Sangeet Bangla 1
-#EXTVLCOPT:network-caching=1000
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 
 
@@ -667,7 +646,7 @@ https://nuovatv.net:8443/tv/stream.m3u8
 https://nuovatv.net:8443/tv2/stream.m3u8
 
 
-#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ZEE 24 Ghanta
+#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/bb/banglash-tv-bd.png",ZEE 24 Ghanta
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
 
 
@@ -710,40 +689,14 @@ http://208.86.19.13:81/624.stream/index.m3u8
 http://208.86.19.13:81/626.stream/index.m3u8
 #EXTINF:-1 group-title="Old BDIX",BTV World
 http://208.86.19.13:81/627.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Max-2
-http://208.86.19.13:81/730.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Zee Music
-http://208.86.19.13:81/719.stream/index.m3u8
 #EXTINF:-1 group-title="Old BDIX",Deepto tv
 http://208.86.19.13:81/609.stream/index.m3u8
 #EXTINF:-1 group-title="Old BDIX",Gaan Bangla
 http://208.86.19.13:81/612.stream/index.m3u8
 #EXTINF:-1 group-title="Old BDIX",Sangeet Bangla
 http://208.86.19.13:81/907.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Colors Bangla HD
-http://208.86.19.13:81/904.stream/index.m3u8
 #EXTINF:-1 group-title="Old BDIX",Independent
 http://208.86.19.13:81/601.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Somoy tv
-http://208.86.19.13:81/693.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",DBC
-http://208.86.19.13:81/614.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",My tv
-http://208.86.19.13:81/651.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Ntv
-http://208.86.19.13:81/652.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",SA tv
-http://208.86.19.13:81/613.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",MY tv
-http://208.86.19.13:81/624.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",ATN Bangla
-http://208.86.19.13:81/626.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",BTV World
-http://208.86.19.13:81/627.stream/index.m3u8
-#EXTINF:-1 group-title="Old BDIX",Deepto tv
-http://208.86.19.13:81/609.stream/index.m3u8
-
-
 
 
 
