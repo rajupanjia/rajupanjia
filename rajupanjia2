@@ -969,6 +969,9 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 6
 http://103.127.93.82:8883/play/tsports/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 7
+http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJngUmEHD.png" group-title="Sports", Gazi TV z
 http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
 
