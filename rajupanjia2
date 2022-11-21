@@ -974,7 +974,13 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 http://103.127.93.82:8883/play/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 77
-http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 7
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 75
+http://175.107.244.52:4455/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJngUmEHD.png" group-title="Sports", Gazi TV z
 http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
