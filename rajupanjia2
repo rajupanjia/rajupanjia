@@ -411,12 +411,11 @@ http://45.127.244.7:8080/hls/channel12.m3u8
 
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png",Colors Bangla
-https://tvs1.aynaott.com/ColorsBangla/index.m3u8
+http://iptvtree.net:8080/86488e81/5e48c38fdd/247530
 
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png",COLORS BANGLA CINEMA
-http://208.86.19.13:81/907.stream/index.m3u8
-
+http://iptvtree.net:8080/86488e81/5e48c38fdd/19741
 
 
 
@@ -450,9 +449,11 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QjBiZb.jpg" group-title="Kids",KBS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="IN: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f5d29d191afb6aa86b78dcf3dca8e8e6.png" group-title="Kids", nickelodeon
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286732
+
 
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
-#EXTVLCOPT:network-caching=1000
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcoOBiZb.jpg" group-title="Kids",Animax 1
@@ -878,6 +879,9 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 #EXTVLCOPT:network-caching=1000
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="Sports",IN: DD Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/56153
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/HAbltI8b.jpg" group-title="Sports",EDGE
 #EXTVLCOPT:network-caching=1000
