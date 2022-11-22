@@ -955,19 +955,19 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 
 http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 2
+EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 2
 http://45.127.244.7:8080/hls/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 3
+EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 3
 http://45.127.244.7:8080/hls/channel3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 4
+EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 4
 http://103.118.76.146:1935/plex/tsports.stream/chunklist_w1278672545.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 5
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 6
+EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 6
 http://103.127.93.82:8883/play/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 77
