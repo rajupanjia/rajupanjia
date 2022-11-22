@@ -936,20 +936,17 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 1 1
-http://45.127.244.7:8080/hls/channel9.m3u8
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3630
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 2
-http://45.127.244.7:8080/hls/channel6.m3u8
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3631
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports Select 1
-http://45.127.244.7:8080/hls/channel7.m3u8
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82628
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s6.gifyu.com/images/image8e2e6f5d16a58a22.png" group-title="Sports",Sky Sports 5
-http://93.152.174.144:4000/play/skysports5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports" ,Ten Sports
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
@@ -993,25 +990,11 @@ http://humiptv.live:8080/live/Musasidiqi/Musasidiqi87/767.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJngUmEHD.png" group-title="Sports", Gazi TV
 http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spss2.png",STAR SPORTS 2 HD
-http://45.127.244.7:8080/hls/channel14.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",SONY Sports 1
-http://45.127.244.7:8080/hls/channel5.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",SONY Ten 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16621
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",SONY SIX HD
-http://45.127.244.7:8080/hls/channel4.m3u8
 
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",Ten 1
-http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",Ten 2
-https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",Ten3
-http://tvs1.aynaott.com/Ten3HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",Bein Xtra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
@@ -1019,9 +1002,6 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",SONY SPORTS 5
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
 
-
-#EXTINF:-1 group-title="Sports" tvg-logo="" ,Geo Super
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",Qatar Fifa
 https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
@@ -1070,9 +1050,6 @@ http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/inde
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",Live tv Fifa
 http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",Bein tv Fifa
-https://freecatv.blogspot.com/2022/11/sports-channel-lineup.html#:~:text=http%3A//destiny4k.com%3A2086/live/NAm/rSUqBCHN29/5347.ts
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",Bein pr Fifa
