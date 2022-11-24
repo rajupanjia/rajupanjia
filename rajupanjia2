@@ -970,8 +970,7 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 6
 http://103.127.93.82:8883/play/tsports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 77
-http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports 7
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
@@ -1003,9 +1002,6 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",Qatar Fifa
-https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="",TSN Fifa
 http://89.187.175.143:80/3038/index.m3u8
 
@@ -1013,15 +1009,15 @@ http://89.187.175.143:80/3038/index.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",HRT Fifa
-http://212.200.197.0:8002/play/a012/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Direc TV
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",Bein 3 Fifa
-Http://51.79.82.208:16065
+#EXTINF:-1 group-title="Sports" tvg-logo="",TNT
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",Bein 1 Fifa
-Http://51.79.82.208:16064
+#EXTINF:-1 group-title="Sports" tvg-logo="",Mat 4
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",SBO Fifa
@@ -1032,36 +1028,33 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",TUDN Fifa
-https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",TYC Sports
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",CRD Fifa
-http://89.187.175.143:80/3038/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",MTV IN
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",Live1 Fifa
-http://hez1-flu.iptvstream.site/131/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",TUDN MX
+http://190.61.102.67:31589/play/a08o/index.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",Live  Fifa
-http://167.172.79.191:9999/cloud/stream/e8115e6400c4415dbcf3f989c6fe82df/11/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Bean QT
+http://175.107.244.52:4457/play/a070/index.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",Live tv Fifa
-http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Bean1
+http://w4.12all.tv:4000/play/bein1fr/index.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",Bein pr Fifa
-http://13.229.80.186:5000/play/Bein_Sport-Premium1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Bein 2
+http://175.107.244.52:4457/play/a06z/index.m3u8
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",Fox Fifa
-http://89.187.175.143:80/3056/index.m3u8
 
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",BTV Fifa
-http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Bean 3
+http://175.107.244.52:4457/play/a06x/index.m3u8
 
 
 
