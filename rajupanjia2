@@ -982,11 +982,11 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:GTVBangladeshLogo.png" group-title="Sports", Gazi TV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports", Gazi TV 2
 http://103.78.255.178:8080/gtv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:GTVBangladeshLogo.png" group-title="Sports", Gazi TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports", Gazi TV
 http://cdn01.palki.tv/live/GaziTV-M/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tv.efiberbd.net/logo/spst6.png",SONY Ten 2
