@@ -398,7 +398,7 @@ http://iptvtree.net:8080/86488e81/5e48c38fdd/145632
 
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbzb.png",ZEE BANGLA h
-http://45.127.244.7:8080/hls/channel10.m3u8
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225786&extension=ts&play_token=KCU2LYaCua
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA 
 http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
@@ -407,7 +407,7 @@ http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
 http://iptvtree.net:8080/86488e81/5e48c38fdd/12979
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA t
-http://45.127.244.7:8080/hls/channel12.m3u8
+http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=155770&extension=ts&play_token=bwumWdjMTp
 
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbcbc.png",Colors Bangla
@@ -983,7 +983,7 @@ http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJngUmEHD.png" group-title="Sports", Gazi TV 2
-http://humiptv.live:8080/live/Musasidiqi/Musasidiqi87/767.ts
+http://103.78.255.178:8080/gtv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJngUmEHD.png" group-title="Sports", Gazi TV
@@ -1008,6 +1008,8 @@ http://89.187.175.143:80/3038/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",Toffee Fifa
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="",Toffee Fifa pr
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",Direc TV
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
@@ -1057,7 +1059,27 @@ http://175.107.244.52:4457/play/a06z/index.m3u8
 http://175.107.244.52:4457/play/a06x/index.m3u8
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="",Qatar
+https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
 
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="",Toffee Fifa pr1000
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="",Toffee Fifa pr850
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",Toffee Fifa pr640
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_640.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",Toffee Fifa pr360
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_360.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",Toffee Fifa pr180
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_180.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", Bein Laliga
+http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
