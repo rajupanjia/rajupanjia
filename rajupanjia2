@@ -872,36 +872,24 @@ https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b80000
 
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/150px-A_Sports_Logo.png" group-title="Sports",A Sports 2
-#EXTVLCOPT:network-caching=1000
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA19S3j.png" group-title="Sports", AD Sports 2
-#EXTVLCOPT:network-caching=1000
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="Sports",IN: DD Sports
-http://iptvtree.net:8080/86488e81/5e48c38fdd/56153
-
 #EXTINF:-145 tvg-logo="https://i.imgur.com/HAbltI8b.jpg" group-title="Sports",EDGE
-#EXTVLCOPT:network-caching=1000
 https://edgesport-samsunguk.amagi.tv/playlist360p.m3u8
 
 #EXTINF:-145 tvg-logo="" group-title="Sports",FH
-#EXTVLCOPT:network-caching=1000
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/220px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sports
-#EXTVLCOPT:network-caching=1000
-http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/dd-sports.png" group-title="Sports",DD Sports
-#EXTVLCOPT:network-caching=1000
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing
-#EXTVLCOPT:network-caching=1000
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934e3b33.png" group-title="Sports",Dubai Sports 1
@@ -938,14 +926,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 1 1
 http://iptvtree.net:8080/86488e81/5e48c38fdd/3630
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports 2
-http://iptvtree.net:8080/86488e81/5e48c38fdd/3631
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports" , Star Sports Select 1
-http://iptvtree.net:8080/86488e81/5e48c38fdd/82628
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Ten_Sports_Logo.png/250px-Ten_Sports_Logo.png" group-title="Sports" ,Ten Sports
@@ -1067,27 +1047,3 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_360.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",Toffee Fifa pr180
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_180.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",BTV
-http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",B1
-http://208.86.19.13:81/714.stream/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",B2
-http://208.86.19.13:81/719.stream/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",B3
-http://208.86.19.13:81/720.stream/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",B4
-http://208.86.19.13:81/722.stream/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",B5
-http://208.86.19.13:81/727.stream/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="",B6
-http://208.86.19.13:81/733.stream/index.m3u8
-
-
