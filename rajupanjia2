@@ -363,7 +363,7 @@ http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 
 
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA H
-http://b1g.uk:80/play/live.php?mac=00:1A:79:64:1A:EA&stream=14154&extension=ts&play_token=BS6Hljo2cS
+http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
 
 
 
