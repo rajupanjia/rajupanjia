@@ -378,6 +378,13 @@ http://bestsave.ltd:80/live/994422/224499/190869.ts
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225777&extension=ts&play_token=UKg7PHsC06
 
 
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA  awqwx
+http://172.107.94.243:9000/live/premium/free/7654.ts
+
+
+
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://tv.efiberbd.net/logo/inbsj.png",STAR JALSHA hn
+http://172.107.94.243:9000/live/premium/free/7655.ts
 
 
 
